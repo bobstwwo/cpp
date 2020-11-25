@@ -1,0 +1,13 @@
+﻿<!--
+©2012 Alex Kazaev
+This product is licensed under Ms-PL http://www.opensource.org/licenses/MS-PL
+-->
+
+<Application x:Class="GrahamScan.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

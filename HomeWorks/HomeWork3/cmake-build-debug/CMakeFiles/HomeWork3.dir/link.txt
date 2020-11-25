@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\HomeWork3.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\HomeWork3.dir/objects.a @CMakeFiles\HomeWork3.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\HomeWork3.dir/objects.a -Wl,--no-whole-archive  -o HomeWork3.exe -Wl,--out-implib,libHomeWork3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HomeWork3.dir\linklibs.rsp

@@ -1,0 +1,9 @@
+FactResellerSales.SalesOrderLineNumber,FactResellerSales.CarrierTrackingNumber
+7
+DimPromotion.MinQty <> 0
+DimReseller.BankName = 'International Bank'
+DimProduct.Color <> 'Silver'
+DimCurrency.CurrencyAlternateKey = 'USD'
+DimDate.CalendarYear < 2012
+DimDate.DayNumberOfWeek >= 3
+DimDate.DayNumberOfMonth = 29

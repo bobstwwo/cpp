@@ -1,0 +1,13 @@
+videos 6
+watch user1 video1
+watch user2 video1
+watch user3 video1
+check user1 video1
+check user2 video1
+check user3 video1
+watch user4 video1
+watch user4 video2
+watch user4 video3
+check user4 video1
+check user4 video2
+check user4 video3

@@ -1,0 +1,447 @@
+setlocale(LC_ALL, ""); - В main для установки кириллицы
+
+int main (int argc, char *argv[]) 
+{
+     
+}
+
+Директивы препроцессора - #include <iostream> 
+Инструкция - строка кода
+
+C++ - регистрозависимый язык
+
+С помощью последовательности операторов << можно вывести несколько значений на консоль.
+ std::cout<<"Age = " << age;
+
+Инициализация по умолчанию
+Переменная получает некоторое значение по умолчанию, которое зависит от места, где эта переменная определена.
+Внутри функции - неопределенное значение
+Вне функции - значение соотв. типу (int = 0)
+
+Типы данных
+bool - true/false, размер точно не определен
+char - один символ в ASCII, 1 байт от -128 до 127 или от 0 до 255
+signed char - один символ, 1 байт от -128 до 127
+unsigned char - один символ, 1 байт от 0 до 255
+wchar_t - расширенный символ, 2 байта в Windows 4 байта на LINUX от 0 до 65 535
+char16_t - один символ в кодировке Unicode, 2 байта
+char32_t
+short/short int/ signed short int/ signed short - одно и тоже
+unsigned short/unsigned short int
+int/signed int/signed
+unsigned int/unsigned
+long/long int/signed long int/signed long
+unsigned long/unsigned long int
+long long/long long int, signed long long int и signed long long
+unsigned long long/unsigned long long int
+float
+double
+long double
+void - тип без значения
+Все типы данных за исключением void могут быть разделены на три группы: символьные (char, wchar_t, char16_t, char32_t), целочисленные (short, int, long, long long) и типы чисел с плавающей точкой (float, double, long double).
+
+Стоит учитывать, что для вывода на консоль символов wchar_t следует использовать не std::cout, а поток std::wcout
+При этом поток std::wcout может работать как с char, так и с wchar_t. А поток std::cout для переменной wchar_t вместо символа будет выводить его числовой код.
+
+char16_t и char32_t необходимо преобразовать переменные к типам char или wchar_t
+
+Спецификатор auto - или var на C#
+но так нельзя: auto number;
+
+ПРЕОБРАЗОВАНИЕ ТИПОВ
+
+bool a = 1;     // true
+bool b = 0;     // false
+bool c = 'g'; // true
+bool d = 3.4;   // true
+
+int c = true;       // 1
+double d = false;   // 0
+
+int a = 3.4;        // 3
+int b = 3.6;        // 3
+
+unsigned char a = -5;           // 251
+unsigned short b = -3500;       // 62036 ()
+unsigned int c = -50000000;     // 4244967296
+
+Безопасное преобразования (преобразования от типа с меньшей разрядностью к типу с большей разрядностью.)
+bool -> char -> short -> int -> double -> long double
+
+bool -> char -> short -> int -> long -> long long
+
+unsigned char -> unsigned short -> unsigned int -> unsigned long
+
+float -> double -> long double
+
+
+
+КОНСТАНСТЫ
+Нужна инициализация при объявлении! иначе ошибка компиляции
+
+ВВОД и ВВЫВОД
+std::cout << "Input age: ";
+    std::cin >> age >> weight;
+    std::cout << "Your age: " << age << "\t your weight: " << weight << std::endl;
+
+ССЫЛКИ
+Для определения ссылки применяется знак амперсанда &
+int number = 5;
+int &refNumber = number;
+Нельзя просто определить ссылку:
+int &refNumber;
+Нельзя присвоить ссылке литеральное значение, например, число
+int &refNumber = 10;
+После установления ссылки мы можем через нее манипулировать самим объектом, на который она ссылается:
+int number = 5;
+    int &refNumber = number;
+    std::cout << refNumber << std::endl; // 5
+    refNumber = 20;
+    std::cout << number << std::endl;   // 20
+         
+    return 0;
+Можно определять не только ссылки на переменные, но и ссылки на константы. Но при этом ссылка сама должна быть константной
+const int number = 5;
+const int &refNumber = number;
+std::cout << refNumber << std::endl; // 5
+//refNumber = 20;       изменять значение по ссылке нельзя
+
+
+МАССИВЫ
+char s2[] = "world";
+Массив s2 будет иметь не 5 элементов, а 6, поскольку при инициализации строкой в символьный массив автоматически добавляется нулевой символ '\0'.
+Не допускается присвоение одному массиву другого массива
+int nums1[] = {1,2,3,4,5};
+int nums2[] = nums1;    // ошибка
+nums2 = nums1;          // ошибка
+
+ПРЕБОР МАССИВА
+int main()
+{
+    int numbers[4] = {1,2,3,4};
+    int size = sizeof(numbers)/sizeof(numbers[0]);
+    for(int i=0; i < size; i++)
+        std::cout << numbers[i] << std::endl;
+     
+    return 0;
+}
+int main()
+{
+    int numbers[4] = {1,2,3,4};
+    for(int number : numbers)
+        std::cout << number << std::endl;
+         
+    return 0;
+}
+
+
+СТРОКИ
+Нужно подклчить #include <string>
+Различные способы инициализации строк
+    std::string s1;                 // пустая строка
+    std::string s2 = "hello";       // hello
+    std::string s3("welcome");      // welcome
+    std::string s4(5, 'h');     // hhhhh
+    std::string s5 = s2;            // hello
+Чтобы считать всю строку, применяется метод getline():
+getline(std::cin, name);
+
+ФУНКЦИИ
+Пишем перед main
+
+РАЗДЕЛЕНИЕ ПРОГРАММЫ НА ФАЙЛЫ
+Например, определим файл factorial.cpp, который будет иметь следующий код:
+int factorial(int n)
+{
+    if (n > 1)
+        return n * factorial(n - 1);
+    return 1;
+}
+Добавим еще один файл factorial.h, который будет содержать объявление функции factorial:
+int factorial(int);
+И также определим главный файл, который назовем app.cpp:
+#include <iostream>
+#include "factorial.h"
+ 
+int main()
+{
+    int result = factorial(5);
+    std::cout << "result = " << result << std::endl;
+ 
+    return 0;
+}
+
+
+КЛАССЫ
+class Person
+{
+public:
+    string name;
+    int age;
+    void move() {
+        cout << name << " is moving"<< endl;
+    }
+};
+Public значит, то что поля доступны извне
+Также сожно обращаться по обычному как в C# и через указатели:
+    Person person;
+    Person *ptr = &person;
+    ptr->name = "Tom";
+    ptr->age = 22;
+    ptr->move();
+    cout << "Name: " << ptr->name << "\tAge: " << ptr->age << endl;
+    cout << "Name: " << person.name << "\tAge: " << person.age << endl;
+
+НАСЛЕДОВАНИЕ 
+class Employee : public Person
+{
+public:
+    std::string company;    // компания
+};
+Конструктор не наследуется, все также как в C#
+
+Запрет наследования , через final
+class User final
+{
+};
+
+ФИРТУАЛЬНЫЕ ФУНКЦИИ
+В базовом
+    virtual void display()
+    {
+        std::cout << "Name: " << name << "\tAge: " << age << std::endl;
+    }
+В наследнике
+    void display() override
+    {
+        std::cout << "Name:" << name << "\tCompany: " << company << std::endl;
+    }
+Обращение к базовому классу
+        Person::display();
+        std::cout << "Company: " << company << std::endl;
+Запрет переопределения, через final
+
+ПЕРЕГРУЗКА ОПЕРАТОРОВ
+Counter operator + (Counter c1, Counter c2)
+{
+    return Counter(c1.seconds + c2.seconds);
+}
+
+
+ИСКЛЧЕНИЯ
+what() - вместо Message В C#
+
+throw:
+double divide(int a, int b)
+{
+    if (b == 0)
+        throw "Division by zero!";
+    return a / b;
+}
+
+catch:
+ try
+    {
+        double z = divide(x, y);
+        std::cout << z << std::endl;
+    }
+    catch (const char* msg)
+    {
+        std::cout << msg << std::endl;
+    }
+
+или можно по др.
+
+throw std::exception("Division by zero!");
+
+    try
+    {
+        double z = divide(x, y);
+        std::cout << z << std::endl;
+    }
+    catch (std::exception err)
+    {
+        std::cout << err.what() << std::endl;
+    }
+
+
+ПОСЛЕДОВАТЕЛЬНЫЕ КОНТЕЙНЕРЫ
+
+ВЕКТОР
+#include <vector> - подключение
+
+std::vector<int> v1;              // пустой вектор
+std::vector<int> v2(v1);          // вектор v2 - копия вектора v1
+std::vector<int> v3 = v1;         // вектор v3 - копия вектора v1
+std::vector<int> v4(5);               // вектор v4 состоит из 5 чисел
+std::vector<int> v5(5, 2);            // вектор v5 состоит из 5 чисел, каждое число равно 2
+std::vector<int> v6{1, 2, 4, 5};  // вектор v6 состоит из чисел 1, 2, 4, 5
+std::vector<int> v7 = {1, 2, 3, 5}; // вектор v7 состоит из чисел 1, 2, 4, 5
+
+Важно понимать отличие в данном случае круглых скобок от фигурных:
+
+std::vector<int> v1(5);       // вектор состоит из 5 чисел, каждое число в векторе равно 0
+std::vector<int> v2{5};       // вектор состоит из одного числа, которое равно 5
+std::vector<int> v3(5, 2);    // вектор состоит из 5 чисел, каждое число равно 2
+std::vector<int> v4{5, 2};    // вектор состоит из двух чисел 5 и 2
+
+Обращение к элементам и их перебор
+
+[index]: получение элемента по индексу (также как и в массивах), индексация начинается с нуля
+
+at(index): функция возращает элемент по индексу
+
+front(): возвращает первый элемент
+
+back(): возвращает последний элемент
+
+Операции с векторами
+
+push_back() - 	добавления элементов в вектор
+emplace_back() - выполняет аналогичную задачу - добавляет элемент в конец контейнера
+
+emplace(pos, value): вставляет элемент value на позицию, на которую указывает итератор pos
+
+insert(pos, value): вставляет элемент value на позицию, на которую указывает итератор pos, аналогично функции emplace
+
+insert(pos, n, value): вставляет n элементов value начиная с позиции, на которую указывает итератор pos
+
+insert(pos, begin, end): вставляет начиная с позиции, на которую указывает итератор pos, элементы из другого контейнера из диапазона между итераторами begin и end
+
+insert(pos, values): вставляет список значений начиная с позиции, на которую указывает итератор pos
+
+clean() - удаление элементов вектора
+pop_back() - удаляет последний элемент вектора
+
+
+erase(p): удаляет элемент, на который указывает итератор p. Возвращает итератор на элемент, следующий после удаленного, или на конец контейнера, если удален последний элемент
+erase(begin, end): удаляет элементы из диапазона, на начало и конец которого указывают итераторы begin и end. Возвращает итератор на элемент, следующий после последнего удаленного, или на конец контейнера, если удален последний элемент
+
+size() - размер вектора
+empty() - пустой ли вектор
+
+resize(n): оставляет в векторе n первых элементов. Размер усекается до n элементов
+resize(n, value): также оставляет в векторе n первых элементов ( Если размер вектора меньше n, то добавляются недостающие элементы со значением value )
+
+assign() позволяет заменить все элементы вектора определенным набором
+swap() обменивает значения двух контейнеров
+
+
+ИТЕРАТОРЫ
+
+Пример использования
+
+int main()
+{
+    std::vector<int> v = {1, 2, 3, 4, 5};
+    auto iter = v.begin();  // получаем итератор
+    while(iter!=v.end())    // пока не дойдем до конца
+    {
+        std::cout << *iter << std::endl;// получаем элементы через итератор
+        ++iter;             // перемещаемся вперед на один элемент
+    }
+     
+    return 0;
+}
+
+Операции с итераторами
+
+*iter: получение элемента, на который указывает итератор
+
+++iter: перемещение итератора вперед для обращения к следующему элементуутв
+
+--iter: перемещение итератора назад для обращения к предыдущему элементу. Итераторы контейнера forward_list не поддерживают операцию декремента.
+
+iter1 == iter2: два итератора равны, если они указывают на один и тот же элемент
+
+iter1 != iter2: два итератора не равны, если они указывают на разные элементы
+
+Пример
+    for(iter = v.begin(); iter!=v.end(); ++iter)
+    {
+        std::cout << *iter << std::endl;
+    }
+
+begin() - указывает на начала итератора, то есть первый эл.
+end() - конец итератора
+
+Реверсивные итераторы
+
+ rbegin() и rend()
+
+ auto iter = v.rbegin();
+
+Константные итераторы
+ cbegin() и cend
+ crbegin() и crend()
+
+Также итераторы для всех типов, кроме list и forward_list, поддерживают ряд дополнительных операций:
+
+iter + n: возвращает итератор, который смещен от итератора iter на n позиций вперед
+
+iter - n: возвращает итератор, который смещен от итератора iter на n позиций назад
+
+iter += n: перемещает итератор на n позиций вперед
+
+iter -= n: перемещает итератор на n позиций назад
+
+iter1 - iter2: возвращает количество позиций между итераторами iter1 и iter2
+
+>, >=, <, <=: операции сравнения. Один итератор больше другого, если указывает на элемент, который ближе к концу
+
+
+ARRAY - аналог массива
+
+std::array<int, 6> numbers;       // состоит из 6 чисел
+std::array<std::string, 5> strings;   // состоит из 5 строк
+
+В контейнер array нельзя добавлять новые элементы, так же как и удалять уже имеющиеся
+
+Все что можно делать с array:
+
+size(): возвращает размер контейнера
+
+at(index): возвращает элемент по индексу index
+
+front(): возвращает первый элемент
+
+back(): возвращает последний элемент
+
+fill(n): присваивает всем элементам контейнера значение n
+
+Запомнить!
+std::array<int, 5> numbers1 = { 1, 2, 3, 4, 5 };
+std::array<int, 5> numbers2 = numbers1;       // так можно сделать
+ 
+int nums1[] = { 1,2,3,4,5 };
+//int nums2[] = nums1;      // так нельзя следать
+
+
+LIST
+
+Представляет двухсвязный список
+
+Для его использования необходимо подключить заголовочный файл list.
+
+std::list<int> list1;             // пустой список
+std::list<int> list2(5);          // список list2 состоит из 5 чисел, каждый элемент имеет значение по умолчанию
+std::list<int> list3(5, 2);           // список list3 состоит из 5 чисел, каждое число равно 2
+std::list<int> list4{ 1, 2, 4, 5 };   // список list4 состоит из чисел 1, 2, 4, 5
+std::list<int> list5 = { 1, 2, 3, 5 }; // список list5 состоит из чисел 1, 2, 4, 5
+std::list<int> list6(list4);          // список list6 - копия списка list4
+std::list<int> list7 = list4;         // список list7 - копия списка list4
+
+list не определена операция обращения по индексу или функция at()
+
+можно 
+front() и back()
+
+size() и empty()
+
+resize(n) и resize(n, value)
+
+assign(il): заменяет содержимое контейнера элементами из списка инициализации il
+
+assign(n, value): заменяет содержимое контейнера n элементами, которые имеют значение value
+
+assign(begin, end): заменяет содержимое контейнера элементами из диапазона, на начало и конец которого указывают

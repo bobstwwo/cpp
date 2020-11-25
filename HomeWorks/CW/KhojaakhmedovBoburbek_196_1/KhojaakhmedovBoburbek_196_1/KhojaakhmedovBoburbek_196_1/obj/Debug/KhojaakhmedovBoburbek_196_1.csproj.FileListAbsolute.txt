@@ -1,0 +1,7 @@
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\bin\Debug\KhojaakhmedovBoburbek_196_1.exe.config
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\bin\Debug\KhojaakhmedovBoburbek_196_1.exe
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\bin\Debug\KhojaakhmedovBoburbek_196_1.pdb
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\obj\Debug\KhojaakhmedovBoburbek_196_1.csprojAssemblyReference.cache
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\obj\Debug\KhojaakhmedovBoburbek_196_1.csproj.CoreCompileInputs.cache
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\obj\Debug\KhojaakhmedovBoburbek_196_1.exe
+D:\My studies\C++\HomeWorks\CW\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\KhojaakhmedovBoburbek_196_1\obj\Debug\KhojaakhmedovBoburbek_196_1.pdb
