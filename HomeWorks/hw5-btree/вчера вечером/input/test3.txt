@@ -1,0 +1,108 @@
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+insert 1 0
+insert 2 10
+insert 3 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100
+find 0
+find 10
+find 100

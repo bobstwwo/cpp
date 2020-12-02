@@ -1,0 +1,10000 @@
+find -98
+insert 72 36
+delete 91
+insert 22 -97
+insert -50 32
+delete -86
+delete 16
+insert -62 82
+insert 31 -33
+find -84
+insert 52 -10
+delete 65
+delete -41
+delete 21
+insert -92 -78
+find -93
+insert 30 -90
+insert -85 -8
+find 23
+delete -59
+find 42
+insert 96 62
+delete -88
+insert -83 -45
+insert 34 48
+delete -46
+find -15
+find -56
+insert -30 41
+insert -68 -12
+insert -23 -98
+insert 89 -57
+find 32
+delete -5
+find 74
+insert -99 91
+delete -57
+delete -37
+find 80
+find 82
+insert 29 94
+delete -30
+delete -50
+insert -53 -21
+delete -67
+insert -41 32
+insert 68 -73
+insert 42 -13
+insert 33 -98
+delete -89
+insert 39 43
+insert 21 38
+insert -33 55
+insert 57 57
+delete 56
+insert 33 89
+find 44
+delete -43
+delete -47
+insert -45 40
+delete 41
+find 54
+insert -35 -55
+insert 20 66
+insert 4 85
+insert 10 42
+delete 78
+delete -62
+insert -60 43
+find 14
+insert 21 67
+find 28
+find -28
+delete 6
+insert 73 71
+delete -80
+insert 89 57
+insert 27 -50
+delete -31
+delete 88
+delete -10
+insert -91 86
+delete -25
+delete 32
+delete -96
+insert -47 -24
+find 60
+insert 60 -17
+find 32
+find -80
+delete -26
+find -8
+delete 68
+delete -76
+insert 86 -73
+find 24
+insert 73 67
+find 67
+delete -12
+insert -100 23
+insert -93 -17
+delete -63
+insert -5 -91
+insert 21 56
+find 57
+delete 97
+find -86
+find 13
+delete -88
+insert 89 80
+delete 8
+delete 16
+delete -45
+find 65
+find -74
+insert 0 93
+find 9
+find -47
+delete -44
+insert -5 -94
+insert -39 42
+delete -23
+insert -35 -34
+find -7
+find 42
+insert -94 97
+insert 23 -88
+insert -92 12
+find 40
+find 26
+insert 43 35
+delete 90
+delete 57
+delete -17
+insert -20 41
+delete -2
+delete -71
+delete 22
+find 83
+find -6
+insert 31 -76
+delete 95
+delete 59
+insert 78 5
+delete 13
+insert -93 -46
+find -90
+insert 95 -57
+delete 31
+find 63
+insert 66 -15
+insert 49 56
+insert -93 -60
+delete -74
+insert -74 86
+delete -95
+insert -23 -30
+find -16
+insert 34 -54
+delete -19
+insert 49 -88
+delete 12
+delete 49
+insert -71 -50
+delete 31
+find 46
+find -16
+delete -64
+insert 46 93
+delete -77
+find 23
+insert -8 -91
+insert -41 -10
+insert 60 3
+insert -75 -72
+insert 74 -91
+delete -68
+find 38
+find 2
+insert -84 38
+delete 62
+find -38
+find -2
+insert 96 43
+insert -47 54
+insert -100 14
+delete -18
+delete 21
+find -34
+find 94
+insert -77 33
+delete -23
+find -55
+insert -92 59
+insert -30 -4
+delete 59
+find -57
+insert 45 49
+insert -2 -36
+find 32
+delete 9
+delete 73
+insert -60 -28
+find 25
+insert -56 85
+insert -89 45
+insert -87 67
+delete -35
+find 49
+insert -67 -6
+find -19
+insert -26 17
+insert 82 79
+find 7
+find 15
+delete 38
+delete 84
+find 30
+delete 45
+find -57
+delete -58
+find -77
+insert -51 -16
+insert -4 -5
+delete 92
+delete 4
+find -45
+insert -4 63
+insert 64 -6
+delete 57
+delete -70
+find 13
+delete 14
+find 33
+insert -91 8
+delete -89
+find 34
+delete -60
+find -1
+insert 76 21
+find -89
+find -16
+insert 33 78
+insert -58 -91
+insert -19 -25
+find 95
+delete 55
+find 45
+insert -16 56
+insert -82 -85
+find 38
+find -34
+delete 88
+find 26
+find -29
+delete -57
+insert 61 -15
+delete -91
+find -62
+find -34
+find -65
+delete -28
+delete -94
+find -88
+delete 96
+delete 14
+find -69
+insert -49 -81
+delete 60
+find 56
+insert -56 -31
+delete -44
+find 60
+insert 58 78
+delete 45
+delete -7
+delete 6
+insert 60 -18
+find 25
+delete -64
+find -74
+delete 27
+find -100
+delete -58
+find -86
+find 96
+insert 90 8
+find 0
+find -10
+insert 87 35
+insert -54 12
+insert 28 34
+insert -23 22
+find -44
+delete -82
+insert 62 88
+insert 17 -97
+delete -34
+delete 91
+find -54
+find -39
+find -11
+insert 75 -65
+insert -12 -8
+insert -78 -25
+insert 44 66
+find -42
+find 55
+find 25
+find -10
+delete 41
+find -43
+insert 30 4
+insert 44 92
+insert -3 68
+find -4
+find -2
+delete -70
+find 32
+find -9
+insert 85 -73
+find 57
+insert 45 -53
+find -61
+insert -58 24
+find -2
+delete 82
+insert -29 -69
+insert -71 27
+delete 27
+insert -100 -48
+find 27
+delete 80
+delete 22
+delete -79
+insert 79 -79
+delete 70
+find -95
+insert -86 3
+insert 96 46
+insert -73 8
+insert 6 27
+delete -91
+insert -18 96
+delete 77
+delete -30
+find 62
+insert -69 -7
+delete 94
+delete -59
+delete 9
+insert -93 -92
+find 5
+insert 84 -86
+find -10
+insert 12 -49
+find 47
+delete 79
+insert 28 -99
+delete -58
+find -37
+insert -38 -42
+insert -44 62
+find -36
+delete 71
+find 79
+insert -96 45
+delete -53
+delete -100
+find -90
+insert -2 41
+find 78
+find -44
+delete 40
+delete 7
+find 29
+find -89
+find -80
+insert 17 91
+delete -4
+delete -48
+insert 80 -1
+insert 80 49
+find -21
+delete 35
+delete 77
+delete -86
+find 70
+insert 4 25
+delete 13
+find -89
+delete 63
+delete -72
+delete 76
+find -37
+delete -47
+find -100
+delete -85
+insert -84 -85
+find 74
+find 58
+delete 42
+delete -25
+find -94
+find -36
+delete -47
+delete -90
+insert 78 -79
+delete -97
+insert -70 -92
+delete -70
+insert 18 -76
+delete 33
+find 35
+delete 11
+find 71
+insert 51 22
+delete 94
+find -55
+find -13
+insert 33 -83
+delete 94
+delete -82
+insert -72 20
+delete 73
+find 83
+insert -25 -12
+find 5
+insert -50 -24
+delete 54
+delete -7
+find 36
+delete 47
+delete 47
+find 93
+find 79
+insert 46 56
+delete -81
+insert -28 -91
+find 58
+insert 39 -16
+delete -10
+find -34
+delete -59
+delete -22
+find 5
+insert -60 -19
+find -27
+find -7
+find 93
+delete 12
+insert -90 79
+find -80
+insert 22 5
+find -94
+insert -41 -7
+find -56
+find -18
+find -73
+insert -8 -32
+find -91
+delete -52
+delete -51
+find 97
+delete 33
+delete 40
+find 80
+find -34
+insert -8 -75
+find 4
+delete 49
+find 57
+insert 75 84
+delete -32
+find -3
+delete -3
+find -65
+delete -9
+insert -41 -76
+find 52
+delete -80
+insert 87 -43
+delete -88
+delete 75
+find -57
+find -60
+delete -49
+insert 3 -29
+delete -100
+delete -70
+delete -13
+find 90
+insert 88 -86
+delete 40
+delete -15
+delete -25
+insert -61 -13
+delete -86
+insert -69 -10
+delete -90
+delete -57
+delete 65
+delete -35
+delete -94
+delete 53
+insert 6 -75
+delete -28
+find 68
+delete 75
+find -65
+find 27
+find -91
+find 97
+find -68
+delete -50
+find 6
+find -57
+find 81
+insert -59 45
+insert 76 -97
+delete -96
+delete -18
+delete -65
+delete -39
+insert -21 88
+delete -12
+insert -54 -19
+delete 9
+find 91
+find 99
+delete -50
+delete -4
+insert -23 -37
+insert -20 -92
+delete 7
+insert 49 -5
+insert -90 17
+find 98
+insert -33 -20
+find 48
+find 22
+find 37
+find -69
+find 40
+delete 72
+find -60
+insert -96 -28
+delete -72
+delete -14
+insert -74 86
+find -4
+delete 39
+insert 85 71
+delete -15
+find 97
+delete -95
+insert -48 -19
+find -85
+delete -89
+find 94
+delete -21
+find 96
+find -72
+insert -63 -85
+insert 33 32
+insert 48 -31
+insert -77 7
+delete 72
+find -50
+delete -71
+insert 90 96
+find 54
+find 80
+delete -17
+delete 17
+delete 50
+delete -16
+insert 10 69
+insert -33 17
+delete -56
+insert -74 -11
+find 55
+insert -25 36
+delete -34
+delete -91
+find 36
+delete 41
+find -37
+delete -82
+delete -94
+insert 31 16
+delete 33
+find 41
+find 80
+insert -69 -31
+insert 38 60
+delete -26
+insert 92 -93
+insert -88 -5
+insert 5 -81
+delete 16
+find 64
+find -8
+delete 91
+insert 81 75
+insert -66 7
+find -82
+find -54
+insert -11 72
+find -27
+find 42
+find 76
+insert 53 -66
+insert 4 50
+insert -80 -75
+find -32
+delete -92
+delete 44
+insert -16 -48
+delete -46
+insert -88 63
+delete 85
+insert -6 49
+find 13
+insert 81 -34
+delete 90
+insert -38 -63
+delete -12
+find -89
+find 37
+find -99
+delete -2
+find -27
+insert -66 -15
+delete -45
+find 17
+delete 72
+delete -85
+insert -9 -19
+find -19
+insert 76 -29
+find -84
+delete 10
+delete -11
+find -73
+find -78
+find -79
+delete -34
+insert 46 -26
+find -37
+insert -47 73
+delete -45
+find -76
+delete 45
+delete 45
+delete -69
+insert 68 42
+insert -91 -34
+insert 57 -60
+find 30
+delete -35
+find 12
+delete -30
+insert 15 -25
+find -42
+find 65
+delete -1
+find -85
+delete -69
+find 10
+delete 41
+find 61
+find -36
+delete 99
+find -99
+find 29
+delete -70
+insert 64 58
+find -61
+delete 94
+delete 76
+find 72
+find -55
+delete -79
+find -69
+insert 85 -19
+insert 44 45
+find -5
+find 57
+delete 38
+find 94
+insert -85 4
+insert -46 63
+find 27
+find -30
+delete 30
+insert -80 51
+insert -97 -24
+find -16
+delete -60
+find 19
+insert 90 -72
+insert -20 -20
+delete 91
+delete 51
+delete 2
+find -22
+find 58
+insert -19 -60
+delete -47
+find -20
+insert -80 76
+delete 34
+delete -27
+delete -44
+insert -66 8
+insert -34 7
+delete 13
+find -23
+delete 24
+delete 97
+delete -92
+insert -26 77
+find 70
+find -57
+find 85
+insert 24 6
+find 30
+insert -76 16
+find -27
+find 30
+insert -5 40
+find -37
+find -99
+insert -49 -91
+delete -22
+delete -71
+insert 47 -28
+insert -15 59
+insert 43 19
+delete -42
+insert 12 -66
+find -6
+insert -67 42
+find 27
+delete -74
+insert 69 -23
+find 63
+find -72
+find 55
+find -84
+find 64
+delete -40
+delete -54
+delete 18
+find 69
+insert -37 -85
+insert -3 9
+delete 76
+delete -44
+delete -65
+find 45
+delete -59
+insert 42 96
+delete 10
+find 69
+find 54
+insert -16 -90
+find 78
+insert -48 -58
+insert -27 -9
+insert 3 -33
+delete 59
+insert -38 -55
+insert -87 -14
+find 7
+delete 99
+delete 28
+insert -45 -18
+find -9
+delete -2
+find 76
+find -36
+find 76
+find -64
+insert -78 -85
+delete 45
+insert -64 -87
+find -26
+insert 2 -40
+insert 20 89
+find 27
+find -23
+delete 16
+delete 93
+delete -23
+find 20
+delete -88
+delete -15
+delete 23
+insert 31 53
+insert -4 47
+find -44
+find 98
+find 21
+find -55
+delete -41
+delete 72
+insert -51 65
+insert -21 -78
+insert 32 86
+insert -83 72
+find -55
+find -70
+find 51
+find -53
+insert 31 -54
+find -96
+find 23
+insert 96 -54
+delete 72
+insert -6 44
+delete -32
+insert -89 -46
+insert -72 78
+delete -74
+insert 46 35
+delete -73
+insert -52 58
+insert 26 15
+insert -50 20
+delete -52
+find -13
+find -4
+find -78
+find -31
+delete 71
+insert 65 50
+find 91
+insert 22 27
+find 49
+delete 21
+insert -57 -53
+find 61
+insert -53 -24
+find -51
+find 93
+find 47
+delete -37
+delete 52
+delete -72
+insert 36 -48
+find -28
+find 88
+insert -73 -50
+find -61
+delete -83
+delete -46
+find 66
+find 64
+find 98
+find 13
+delete -72
+find -35
+delete 15
+delete -99
+delete -3
+insert -25 -77
+delete 24
+delete -48
+delete -58
+find 10
+delete 52
+find 75
+insert -7 42
+delete 54
+delete -17
+insert 36 48
+find -49
+insert -81 -45
+find -18
+find -33
+insert -94 -30
+find 0
+insert -66 -90
+insert 38 39
+find 73
+delete 91
+insert 38 99
+insert -28 35
+insert -10 87
+find 10
+find 32
+insert -72 51
+delete 87
+insert 17 -13
+find 52
+insert 11 -58
+find 11
+find 73
+insert 27 12
+find -27
+find 89
+delete -73
+delete -44
+delete -26
+delete -19
+insert -9 -39
+find -84
+insert 28 -47
+insert 78 16
+insert 67 -72
+insert 40 -18
+find -48
+find -55
+find -23
+find 68
+find -79
+find -69
+find 38
+delete -96
+insert 75 -80
+find 3
+find 65
+find -6
+insert -100 22
+find 41
+insert -39 45
+insert -42 -14
+delete -77
+delete -22
+insert -37 -39
+delete 53
+find 13
+delete 22
+delete 87
+insert -37 5
+find 57
+insert -89 -69
+insert 4 87
+find -50
+delete -88
+insert 53 -65
+insert 84 -68
+insert -55 41
+delete 92
+find 69
+find 40
+insert 96 -97
+insert -93 12
+delete 70
+insert 2 -25
+delete 3
+insert 15 15
+find -80
+delete 8
+delete -13
+delete -98
+delete 31
+delete -17
+find -87
+find -92
+insert 31 -78
+delete 96
+insert 38 39
+delete -87
+find -55
+insert -11 12
+find 10
+delete 64
+find -46
+insert -80 -17
+find 67
+find 18
+find -54
+insert 89 30
+find 57
+insert 88 -53
+delete 30
+delete -60
+delete 51
+find -61
+insert 91 -93
+insert -42 -87
+find -22
+delete -22
+delete 67
+find 77
+delete 23
+delete 43
+delete -25
+insert 65 23
+delete -53
+delete 27
+find -61
+insert 65 99
+find 24
+insert -90 38
+delete -60
+insert 64 -62
+delete 61
+delete 19
+insert 34 -86
+insert 61 -64
+find -64
+find 29
+delete -98
+delete 64
+find -32
+find 62
+insert 90 24
+delete -24
+find -31
+find -97
+insert 6 70
+insert 42 4
+delete 7
+delete -4
+insert -94 71
+find 31
+find -79
+delete -12
+delete -90
+find 39
+insert 27 -78
+delete -56
+insert 73 99
+find -21
+delete -36
+delete -74
+delete -19
+delete 73
+insert -98 45
+delete 33
+insert 63 80
+insert 57 42
+delete -4
+insert -12 -30
+delete 32
+find 52
+delete -64
+find -48
+find 58
+insert 77 91
+find 51
+insert -71 -52
+insert 62 66
+insert 43 25
+insert -15 -62
+delete 32
+insert -2 59
+find 63
+insert -7 99
+insert -3 -96
+insert 28 81
+insert 54 -16
+delete 83
+insert 19 -2
+insert 90 -59
+delete 22
+insert 66 50
+insert -56 -52
+insert -94 64
+find -49
+insert -20 48
+insert -14 -72
+delete -17
+find -11
+delete -30
+insert 18 68
+find -40
+insert -43 83
+find 75
+insert -50 -81
+find 72
+insert -50 57
+find 65
+find 28
+find -25
+insert -10 10
+insert 79 57
+insert 5 -73
+delete -18
+insert -56 39
+delete -64
+find 56
+insert -15 -10
+delete -86
+delete 20
+delete -43
+insert -25 -6
+insert 84 84
+find 80
+delete -96
+find -79
+delete 29
+insert -29 26
+delete 41
+find -86
+find -99
+insert 39 64
+find -21
+insert -40 -11
+find -13
+insert -17 -29
+insert 30 -49
+find -13
+find -43
+delete -73
+delete 41
+delete -87
+insert -32 -73
+delete -31
+insert -76 86
+delete -45
+delete 9
+delete 20
+delete 28
+delete -80
+delete -14
+insert 32 73
+insert 41 95
+find -93
+delete 2
+find 72
+find 99
+find 92
+find -68
+delete 26
+insert 52 87
+insert -27 83
+delete -72
+find 60
+insert -73 -56
+delete 48
+delete -65
+delete 45
+find 52
+insert -52 -26
+find -44
+find 45
+delete 96
+insert 29 49
+delete -35
+find 94
+find -98
+insert -10 17
+delete -13
+delete -23
+insert 43 74
+delete -33
+delete 35
+find 53
+insert 72 23
+delete -87
+delete 72
+insert -79 82
+insert 95 28
+insert 97 -70
+find -34
+find -33
+delete -65
+insert 18 62
+insert 38 -60
+find -95
+find 52
+delete -31
+insert 42 41
+delete -64
+find -93
+delete 9
+find -15
+delete 17
+insert -23 -24
+insert -48 -37
+delete 22
+insert 90 -40
+insert 39 -82
+delete -9
+delete 36
+find -10
+insert -84 26
+insert 75 -26
+insert -37 60
+insert 80 77
+insert -92 -38
+insert -28 90
+delete -51
+insert -21 -81
+find -3
+insert 64 -56
+delete 8
+delete -47
+insert -87 48
+find -13
+delete -33
+find -84
+find 77
+delete -92
+find -48
+delete 81
+find -19
+insert 1 1
+find 50
+find 3
+find 63
+insert -67 68
+delete -54
+find -57
+delete -30
+insert -15 -62
+find -86
+delete -30
+delete 50
+delete 87
+insert 83 1
+insert -64 -12
+insert 76 91
+delete 40
+delete -95
+insert 46 -97
+insert 41 -59
+insert -96 -21
+insert -34 -7
+insert -12 -1
+delete 90
+delete -42
+insert 87 -16
+delete -72
+delete 38
+find -68
+find 26
+find 39
+delete 44
+insert 65 86
+find 21
+find -51
+delete 58
+insert -73 -91
+find -83
+insert -20 43
+insert 64 -43
+find -75
+insert -66 -91
+delete 60
+delete -31
+delete -6
+find 2
+find 49
+delete 45
+find 15
+insert 36 42
+find 58
+insert 13 -61
+delete 0
+insert -84 15
+insert 63 49
+find 41
+delete 39
+delete 98
+delete 48
+delete 14
+delete -72
+insert -100 43
+find -12
+find -63
+insert 1 2
+find 8
+insert -59 24
+insert -78 -12
+insert -89 81
+find 51
+delete -69
+delete -8
+delete -49
+delete -36
+find -6
+insert -65 82
+insert -75 -71
+insert 27 -33
+find -18
+find -65
+insert 31 -25
+delete -6
+delete -97
+delete 52
+insert 82 -56
+find 86
+find -13
+delete 84
+insert 41 66
+find 66
+find -8
+insert 67 -97
+find -24
+find -21
+find 13
+delete -46
+insert -95 -1
+insert 92 -66
+insert -85 72
+delete -46
+insert 44 0
+find -37
+insert 84 -89
+insert 82 30
+delete 9
+delete 32
+insert 66 97
+delete -80
+delete -1
+delete 92
+insert -42 -85
+insert 82 75
+insert -41 20
+find -22
+insert 62 -86
+find 1
+find -24
+delete -42
+find -21
+delete -98
+find -56
+insert 95 -5
+insert 39 -10
+delete 54
+insert 90 30
+find -98
+delete 84
+find 37
+insert -54 -17
+insert 95 11
+delete -95
+find -25
+delete 1
+find 52
+find -49
+find 78
+delete -10
+delete -3
+insert 29 79
+delete 31
+find -57
+insert -30 90
+delete 53
+insert 56 -84
+insert 61 15
+find -31
+find -30
+delete 96
+insert 72 26
+delete -38
+insert 61 -95
+delete -8
+insert 24 -75
+delete -61
+find -98
+insert -52 45
+delete -84
+insert -29 32
+insert -8 0
+find -35
+delete 94
+insert 74 -90
+insert -61 23
+delete -68
+find 21
+insert -60 32
+delete 35
+insert 49 35
+delete -41
+delete -81
+find 88
+find -78
+insert -5 -13
+insert -59 24
+find -48
+find -46
+find -19
+find 43
+find 48
+find -61
+find -77
+find 98
+find -87
+find -86
+delete 87
+delete 2
+find -57
+insert -100 -16
+delete -24
+find -57
+insert 6 70
+insert -3 -35
+find -55
+delete 84
+find 76
+delete -9
+find -26
+delete -47
+insert -13 -93
+insert -52 -50
+find -100
+delete -46
+find 38
+insert -18 -56
+delete 20
+find -63
+insert 38 42
+insert -69 -30
+delete -25
+insert -11 -77
+insert 48 11
+find -38
+insert 71 25
+delete -42
+delete -7
+delete 80
+delete 92
+insert -5 -63
+delete 61
+insert 30 62
+insert 52 -75
+insert -39 15
+delete 74
+find 20
+find -23
+insert -81 -98
+insert -71 33
+insert 77 -35
+find 21
+delete 15
+find -95
+find 33
+find 90
+find 92
+delete -71
+insert -17 -62
+delete -2
+delete -25
+delete -55
+find -18
+find -25
+insert 37 -48
+insert 57 73
+find -76
+find -92
+find -84
+insert 94 -88
+insert 62 -59
+find 97
+find -26
+delete 41
+insert 76 86
+delete -42
+insert -29 78
+find -24
+find -22
+find -38
+insert 33 -78
+insert 1 -30
+delete -35
+insert -85 6
+delete 64
+find 83
+insert -22 -16
+find -83
+insert 51 -52
+delete 29
+delete 32
+delete -53
+find 56
+insert -82 78
+find -28
+delete 8
+delete 12
+insert 96 -79
+find 33
+insert -48 64
+find 92
+delete -27
+delete 81
+delete -75
+delete -87
+delete 2
+delete -26
+find 17
+find -89
+insert -46 19
+insert 18 94
+insert 39 -66
+find -5
+find 24
+delete -70
+delete 60
+insert 90 -59
+insert -55 -94
+find 48
+find -52
+find -78
+find 15
+delete -41
+delete 93
+find 81
+find -32
+find -72
+find -47
+find -50
+find 61
+find 62
+find -48
+insert 49 -89
+delete -3
+find -62
+delete -10
+delete -32
+insert 2 -45
+delete -21
+insert -34 47
+delete -6
+delete -42
+delete 13
+delete 11
+find -44
+insert 28 -75
+insert 39 -85
+insert -93 -94
+find -3
+insert -18 2
+delete -10
+delete 83
+insert 19 31
+find 66
+delete 89
+find -42
+insert -72 34
+find 95
+find -32
+insert 54 -16
+delete 62
+find -10
+find -9
+insert 14 -57
+insert 67 -73
+find -14
+insert -75 -96
+insert 66 21
+insert -98 1
+insert -55 -4
+delete 14
+delete 22
+delete -17
+find 92
+delete -53
+find -3
+find -21
+insert -20 -42
+insert 19 20
+find 23
+insert -55 -56
+find 99
+find 46
+find 93
+delete 10
+insert -65 -88
+find -29
+insert 60 19
+find -42
+delete -29
+find -35
+delete 75
+insert -99 -94
+insert -20 -49
+find -74
+insert 53 24
+insert -1 89
+delete -97
+insert 21 -61
+insert 26 51
+find 18
+find 4
+delete 79
+insert -78 7
+delete 75
+delete 16
+delete 16
+insert -67 18
+delete 9
+delete -75
+delete -27
+insert -72 95
+delete -24
+insert 71 48
+find 32
+find -16
+insert 25 -42
+delete 82
+delete -16
+delete -60
+insert -29 -26
+delete 97
+delete -66
+find 86
+delete 54
+find -93
+find -57
+delete -3
+delete 75
+insert 95 -89
+delete -28
+find -84
+delete 2
+delete 52
+insert -48 -77
+insert 70 72
+insert 57 -2
+insert -83 -47
+delete 76
+insert 0 -92
+find -57
+delete -91
+find 46
+insert -38 -85
+find 16
+insert 24 -80
+find 76
+find 80
+find 68
+insert -92 -81
+delete -75
+insert -13 -99
+find 39
+insert 83 82
+find 92
+insert -58 99
+delete -43
+delete -46
+insert -1 -73
+delete -73
+insert -31 -22
+insert -43 -14
+insert -12 -37
+find 75
+find 89
+insert 77 72
+delete -27
+find 74
+delete -32
+insert 72 -9
+delete -50
+delete 94
+find 22
+insert 61 -100
+find -81
+find 23
+insert 2 9
+insert 19 -1
+find -4
+find 99
+delete 40
+insert -15 -91
+delete -90
+delete -96
+insert 47 50
+insert -31 19
+insert -31 -68
+delete 8
+insert -60 -89
+find -26
+find 15
+find 78
+insert -77 48
+delete 48
+delete -60
+insert 96 -55
+delete -44
+find 40
+insert -39 -40
+find -18
+insert -44 91
+find -52
+find 67
+delete -64
+delete -2
+insert 26 21
+delete 57
+delete 1
+insert -45 -3
+insert -55 5
+insert 37 14
+delete 49
+delete -18
+delete -55
+insert 44 -7
+insert 12 68
+find -1
+delete 82
+insert 88 -51
+insert -91 50
+delete -36
+delete -21
+insert -44 -82
+find 23
+delete 0
+delete 1
+delete 58
+delete 90
+find -42
+delete 71
+insert -99 -62
+insert 78 -74
+find 61
+find 10
+find -96
+find 25
+delete 66
+find -84
+insert 14 17
+insert 67 63
+delete -55
+delete 15
+delete -92
+find -67
+find -24
+insert 40 -46
+delete -47
+find -37
+find 98
+delete 75
+delete -57
+insert -68 -16
+delete 1
+insert -44 -84
+insert -47 21
+delete 9
+delete -46
+delete -9
+find -62
+find 37
+find -64
+find -93
+find 29
+insert -38 45
+delete -15
+find 63
+find 82
+insert -70 98
+find -17
+find 17
+insert -99 24
+find -56
+insert -23 -73
+find 72
+delete 80
+insert 49 9
+delete 63
+find -6
+insert 35 -43
+delete 17
+insert -48 -33
+insert 36 39
+delete -20
+find 5
+find 36
+insert 0 63
+delete -28
+insert -8 -96
+delete 54
+delete -57
+delete -34
+insert -4 23
+insert 65 33
+find 85
+insert -46 24
+insert -13 -84
+delete 58
+insert -1 -42
+delete 63
+find 97
+find -14
+insert 62 6
+insert 22 24
+insert -82 -53
+find 36
+insert -1 21
+find 6
+insert 56 93
+find -61
+delete 17
+delete 61
+insert -47 -9
+find -39
+insert 13 -77
+find 85
+delete 60
+delete 16
+insert -67 -48
+find -16
+delete 74
+delete 70
+insert 83 83
+delete -14
+find 63
+find 40
+find -9
+delete -22
+find 39
+delete -91
+delete -100
+insert -20 16
+delete -35
+insert -23 49
+insert -49 40
+find 34
+insert -100 -93
+find -95
+insert 61 45
+delete -48
+find -82
+find -38
+find -66
+delete -28
+delete 70
+delete 88
+find 10
+insert 36 -96
+find -72
+delete -98
+delete -78
+insert -82 -73
+delete 79
+insert -75 84
+delete 95
+delete -39
+insert -56 51
+insert 99 -27
+find 87
+insert -5 -96
+find -48
+find 77
+find -25
+delete -53
+find -1
+insert 22 -69
+insert -1 -85
+find -5
+find -88
+insert -32 15
+find -80
+insert 93 -93
+find -12
+insert 2 -8
+insert -20 18
+find 61
+insert -46 -87
+insert 28 96
+delete -72
+delete 49
+insert -65 61
+find -44
+insert -55 -24
+delete -62
+find 23
+insert 99 -74
+insert -64 6
+delete -47
+delete 59
+delete 84
+find -65
+delete 2
+delete 43
+find 38
+delete 65
+insert 87 94
+delete -37
+delete 64
+insert -61 95
+find -83
+find -14
+insert 60 39
+delete -29
+insert -69 74
+find 64
+find -99
+insert -20 -8
+insert -55 -80
+find -61
+delete -12
+find 11
+insert 94 -42
+delete -88
+delete -73
+delete -10
+delete 34
+insert 17 18
+delete 3
+insert -32 -43
+find 48
+find 80
+delete 21
+delete 36
+find -54
+find 31
+find -62
+insert 26 -98
+insert 53 -59
+insert 20 28
+find 90
+delete 14
+find -20
+insert 2 -79
+find -49
+insert -71 25
+insert 65 93
+insert -91 24
+delete 99
+insert -80 53
+find 73
+find -51
+find -26
+insert -64 -28
+insert -19 52
+find 84
+delete -91
+delete -21
+delete 12
+delete 7
+insert 47 16
+insert -59 -33
+find -87
+delete -13
+delete 67
+insert -67 -59
+delete -79
+delete 55
+delete 70
+delete -62
+insert -58 -74
+find -68
+find 18
+find 48
+insert -92 -19
+insert -25 -68
+insert -52 20
+find -85
+delete 97
+insert 74 -82
+insert -19 20
+insert 14 11
+find 56
+delete 73
+find 79
+insert -68 27
+find -60
+insert -75 -33
+delete -98
+find -35
+insert -18 -74
+insert -57 52
+insert -31 -66
+insert -82 48
+delete -36
+insert -94 89
+insert 85 -67
+insert -35 -53
+insert -74 -75
+find 71
+find 8
+find 46
+insert 67 -39
+insert 20 47
+delete 6
+delete -74
+find -30
+find -37
+insert -69 -87
+find -83
+delete -70
+delete 68
+delete 93
+delete 80
+find 17
+find -29
+delete -12
+insert 98 60
+find -94
+find 84
+insert -27 -94
+insert -12 -66
+find 1
+insert -74 -52
+delete -57
+insert -61 -64
+find 71
+insert -6 -8
+delete 55
+delete 17
+delete -7
+delete 11
+insert 33 -5
+find 39
+insert -27 26
+delete 26
+delete 9
+delete 56
+insert 42 95
+find 19
+delete 2
+insert -90 35
+find 43
+insert -74 88
+find 38
+find 33
+delete -16
+insert -41 9
+delete -6
+insert -23 55
+insert 85 -40
+find 33
+find 76
+delete -45
+insert -86 42
+insert 57 94
+insert 45 47
+insert 96 -68
+insert -20 -43
+find 41
+find -30
+delete 89
+delete -57
+insert -15 -1
+insert -62 -25
+insert -54 -83
+insert 88 -20
+insert 35 70
+delete -18
+find -20
+delete 62
+insert 24 38
+delete -64
+delete 35
+delete -66
+find 5
+insert -71 65
+insert -43 80
+find -26
+delete -52
+find 96
+find -23
+insert -83 -74
+find -16
+find -76
+find 27
+find 48
+insert 65 26
+find 43
+insert 45 25
+find -93
+find 29
+insert -92 39
+delete 15
+find -97
+find 67
+find 71
+delete -91
+delete -44
+find 91
+delete -31
+insert -48 96
+delete 47
+find -1
+delete 28
+find -46
+insert 26 -85
+find 46
+delete 87
+insert -73 7
+insert 50 38
+insert -38 46
+delete -47
+insert 22 -15
+delete 18
+find 84
+find -11
+insert 77 0
+find 86
+delete -70
+insert 24 13
+find -27
+delete 33
+delete -10
+find -69
+find 70
+insert 9 55
+delete 46
+find -72
+find 28
+find -74
+delete -45
+delete 53
+find 4
+find -68
+find -52
+find -46
+find 43
+find 82
+insert 85 -14
+insert -79 48
+delete 79
+insert 87 -93
+insert 16 -15
+find -95
+insert 36 58
+insert 93 -6
+insert 73 42
+insert 79 -17
+find -15
+delete 89
+find 4
+insert -8 -48
+delete -76
+insert -40 -69
+insert 28 -32
+insert -14 60
+find 96
+delete -79
+insert 63 47
+insert -9 -22
+delete 13
+insert -63 2
+delete -7
+find -69
+find -95
+insert -56 -83
+insert 74 -2
+find 14
+insert -32 42
+delete 14
+delete -77
+delete -85
+find -28
+find 32
+delete -91
+find -12
+delete -85
+insert 80 12
+delete -65
+find 95
+find -66
+insert 82 0
+find -50
+insert 61 16
+find 84
+delete 26
+delete 70
+delete 80
+find 33
+insert 96 -67
+find 69
+find 33
+find -99
+insert -7 -73
+find 38
+find 29
+find -89
+delete 29
+delete -65
+find -75
+insert 14 95
+insert -6 3
+delete 48
+insert 55 -83
+delete 20
+insert 19 21
+find 64
+find 73
+insert 10 2
+insert 22 -74
+find -51
+find -83
+find 26
+delete -31
+delete -75
+insert -64 74
+find 43
+delete 48
+insert -6 -81
+delete 91
+find -14
+find -13
+delete -33
+find -29
+insert -39 20
+delete -70
+find -66
+delete 68
+insert 38 -7
+find -36
+insert -19 -92
+delete 45
+find 89
+insert -54 73
+find -89
+insert -30 -22
+insert 41 24
+find -87
+find 64
+find -82
+find 29
+delete -84
+delete -44
+insert 95 -11
+insert 64 86
+delete 53
+insert -55 -22
+delete -92
+insert -88 -62
+find 53
+delete -50
+insert 95 -85
+delete -87
+delete -92
+delete -40
+delete 40
+find 29
+delete -15
+find 68
+insert 99 -63
+insert -23 31
+find -28
+delete 28
+find -52
+delete -62
+delete 90
+delete 98
+delete -50
+insert -61 10
+find 31
+delete -79
+find 93
+insert -18 -71
+delete 19
+find 43
+delete 52
+insert 46 -68
+delete 47
+find 93
+find -35
+delete -36
+insert -51 -78
+find 59
+delete 43
+insert 35 -44
+find -51
+insert -59 15
+find 52
+insert -87 5
+find 11
+delete 32
+delete 65
+delete -24
+insert 24 40
+insert 73 14
+insert -15 -72
+delete 4
+delete 18
+delete 65
+find 57
+delete -34
+insert 94 -69
+find 71
+find -44
+insert 5 -79
+insert 82 56
+find -26
+delete -70
+find -71
+insert 69 -9
+delete -15
+insert -13 -98
+insert -55 -66
+find 7
+find -33
+delete 51
+insert -18 -94
+insert -44 86
+insert -88 -9
+delete -25
+delete -83
+delete 41
+find 95
+insert 76 -96
+find 78
+delete 49
+insert -42 -92
+delete 25
+find -5
+find 17
+delete 8
+insert -13 10
+find 31
+find -88
+delete 8
+insert -2 -53
+find 15
+delete -80
+delete 53
+delete 69
+delete 0
+insert -87 78
+insert 8 -82
+delete 61
+delete -94
+delete -64
+delete -17
+delete -41
+insert -18 28
+delete -19
+insert -94 -44
+insert -74 -91
+delete 48
+find -89
+insert -9 89
+find 51
+insert -72 -36
+insert 86 -83
+find -18
+insert -52 -7
+find -18
+delete 84
+delete 17
+find 72
+find 69
+insert 93 17
+insert 56 47
+delete 46
+find 59
+insert 69 -76
+insert 8 -59
+insert 90 -7
+find -17
+insert 47 -43
+insert -37 74
+delete -65
+delete -18
+find -99
+delete 34
+find -2
+find -44
+insert 1 13
+insert -23 -44
+insert 18 -27
+delete -88
+find -54
+insert -16 -45
+find 47
+insert -66 35
+insert 16 -44
+insert -33 90
+delete 65
+delete 10
+find -66
+find -79
+insert 84 -58
+find -43
+delete 46
+find -96
+insert 83 -89
+delete -18
+find -97
+insert 84 19
+insert 28 38
+find 82
+find 49
+insert 64 35
+insert 85 98
+insert 80 32
+find 37
+delete 59
+delete -21
+insert 5 -52
+insert -2 -48
+find -66
+delete -32
+delete -38
+delete 44
+find -67
+delete -19
+find -92
+insert 19 -89
+delete -49
+delete -12
+insert 83 82
+find 25
+delete 61
+find -11
+find 43
+find -11
+find -14
+find -4
+insert -80 29
+find -46
+insert 79 -27
+insert 91 -28
+delete -85
+insert 58 50
+delete -29
+find -15
+find 76
+insert 50 -28
+insert 91 -17
+insert -54 31
+find -33
+insert -56 21
+find 75
+insert 36 66
+find -40
+insert 30 -81
+delete 77
+delete 10
+insert 79 -61
+find -18
+insert -60 -75
+delete 30
+insert -22 -98
+insert -9 98
+find 6
+find 58
+find 40
+insert -46 -74
+find -75
+insert 39 -80
+delete 54
+insert -89 43
+find -26
+find 7
+insert 14 79
+delete 16
+delete 89
+find -66
+insert -59 44
+delete 33
+insert -4 59
+delete 21
+insert 26 41
+find -68
+delete 8
+insert 26 34
+insert -67 54
+insert 64 -47
+insert 86 94
+delete 72
+delete -98
+find -65
+find 40
+delete -53
+delete -95
+insert 57 -2
+delete 89
+insert 77 64
+delete 11
+delete 3
+delete -47
+insert -30 47
+delete -83
+insert 31 -89
+delete -53
+delete 50
+insert -18 97
+find -13
+delete 76
+delete -14
+delete -19
+delete -19
+delete 74
+insert -94 91
+find -74
+find -38
+find 83
+find 16
+find 85
+find 44
+find -45
+delete -16
+delete -35
+delete 54
+delete 39
+delete -64
+find 5
+insert 28 66
+find -28
+delete 72
+find 44
+delete -79
+find -75
+delete -96
+delete -37
+delete 48
+find 76
+insert 7 -70
+find -38
+delete 4
+insert 24 61
+find -96
+insert -69 -72
+find 55
+insert 53 12
+find 72
+delete -94
+delete 81
+find -79
+find 12
+find 60
+find 79
+find 86
+delete -51
+delete -75
+find -26
+find 39
+find -90
+delete -88
+find -94
+delete 16
+delete 65
+delete 7
+find 44
+insert 32 -92
+find -8
+find -43
+delete 18
+delete 34
+insert 83 -3
+delete 65
+delete -15
+insert -11 -3
+insert -5 73
+find -75
+insert 94 33
+find -10
+delete -27
+delete -9
+delete 35
+find 54
+insert -41 -60
+find 95
+find 88
+find 26
+find -61
+insert -25 94
+delete -52
+delete -12
+insert -40 73
+insert 2 38
+find 5
+delete -78
+find -17
+insert -55 -6
+find -95
+find 6
+find -99
+insert 70 92
+find -55
+find -37
+find -47
+insert 37 -35
+find 69
+find 66
+find -75
+find -100
+delete 83
+delete 11
+find -4
+delete 67
+delete -39
+delete 88
+delete -35
+insert -71 -48
+delete -25
+insert -42 -88
+delete -14
+insert -58 -95
+delete -33
+delete 11
+delete -11
+delete 95
+insert -13 -37
+delete -10
+find 59
+find -40
+insert 71 -11
+insert 26 16
+insert 85 28
+find -77
+insert -49 -72
+find 18
+find 87
+delete 75
+delete 50
+delete -35
+delete -16
+insert -58 96
+delete 2
+find -39
+insert -98 88
+delete -11
+find 39
+insert 48 52
+delete 29
+insert -79 -85
+delete 76
+find 45
+find 88
+insert 40 -28
+delete 35
+delete 13
+insert 93 75
+find 48
+delete 92
+delete -12
+find -60
+insert -64 43
+find -83
+delete 32
+find -8
+find 30
+find -86
+find 11
+insert 16 -54
+find -71
+insert -95 56
+delete 53
+delete 61
+find 11
+find 35
+insert -19 -70
+delete -2
+insert 2 -17
+insert -20 65
+delete -5
+insert -29 -14
+delete -31
+delete 7
+find 2
+delete -27
+delete 35
+delete 2
+delete -21
+insert -1 61
+find -32
+insert 65 22
+delete 55
+find -41
+insert -50 -31
+find 36
+delete -44
+delete -93
+delete 84
+delete 87
+find 58
+delete -55
+find -95
+delete -92
+delete 1
+insert 29 -82
+insert 76 73
+insert -65 -11
+delete -43
+insert 40 56
+delete 74
+delete 50
+delete 86
+delete -47
+delete -38
+delete -94
+find 33
+delete 85
+insert -56 15
+insert 95 -9
+find 2
+find -80
+delete -13
+delete 51
+insert -16 25
+find -66
+find -2
+insert -60 95
+delete -9
+insert -95 77
+insert 91 64
+delete -42
+insert 12 1
+insert 66 31
+find -76
+find 20
+find 67
+delete -48
+delete -61
+insert 28 63
+find 23
+insert -25 -71
+insert -96 49
+insert 68 14
+find -10
+find 60
+delete 44
+find -85
+find -37
+find -52
+delete -8
+delete -88
+delete -56
+insert 99 -72
+find 0
+delete -55
+find -40
+insert 4 80
+insert 63 -78
+delete 24
+delete -13
+find 32
+find 83
+insert -93 65
+insert -88 77
+insert -44 -30
+delete -64
+delete 99
+find -16
+insert -45 -21
+insert -64 -8
+find -90
+insert 1 27
+insert -31 -41
+find -96
+insert -11 69
+find -47
+insert -1 -39
+insert 98 -3
+find 49
+insert -8 6
+insert 24 68
+insert 68 -3
+delete -96
+insert -74 26
+insert -62 -92
+delete -79
+delete 44
+delete 3
+find 19
+find 15
+find 66
+delete -82
+insert 68 24
+insert -56 -56
+find -88
+find 47
+delete -9
+insert -5 -38
+find 3
+insert 85 5
+find -95
+insert 28 24
+insert 95 93
+insert -29 -89
+insert 91 -13
+delete 87
+delete -84
+find -75
+find 68
+find -10
+find 31
+find 18
+find -61
+delete -46
+find 37
+delete 68
+find 30
+delete 63
+delete -24
+find 44
+insert 87 -17
+find -96
+find -75
+delete -50
+insert 62 -35
+find -84
+insert -2 -45
+insert 53 -49
+delete -13
+delete -84
+insert -16 79
+find 12
+find -34
+delete 38
+delete -25
+find 84
+delete -86
+find 46
+insert -48 -25
+insert -64 74
+delete 96
+insert -98 -55
+delete 73
+delete 84
+find 92
+delete 21
+delete 73
+delete -18
+delete 76
+delete -42
+insert 91 97
+delete 19
+delete -51
+find -63
+find -85
+insert -46 -82
+find -79
+delete -57
+find 5
+delete 11
+find 79
+delete 27
+delete -37
+insert -63 -27
+delete 80
+find -91
+find -29
+delete 16
+insert 86 31
+delete -59
+insert -25 -38
+delete -30
+delete 50
+delete 30
+insert 89 19
+delete -50
+find -85
+insert -93 -1
+insert -22 8
+delete 49
+insert 40 -90
+delete -29
+delete -1
+insert 31 61
+find 53
+insert 20 -89
+find 52
+insert 33 12
+insert -33 28
+insert -25 79
+delete 5
+insert 90 -94
+insert 30 -84
+find 53
+insert -80 26
+delete 81
+delete 8
+find 68
+insert 27 21
+find -87
+delete -73
+insert 13 73
+insert -56 39
+find -16
+delete 23
+insert 63 -9
+delete -32
+insert 36 95
+insert -31 -57
+insert 34 64
+delete -87
+find -73
+find -78
+delete -89
+find 79
+insert 80 -30
+find -84
+insert 10 63
+find -99
+find -13
+insert 67 -66
+find 88
+find -30
+insert 93 -75
+find -70
+delete 14
+insert -89 -23
+insert 43 48
+find 65
+find -10
+delete 97
+delete -61
+insert -15 26
+find -96
+delete 59
+delete 42
+delete -33
+find -93
+insert 66 -88
+delete -81
+delete -1
+insert 18 -53
+insert -64 34
+find -43
+delete 29
+delete -66
+delete 75
+insert 70 -13
+find 63
+find 46
+delete 17
+find 86
+find 65
+find 2
+insert 8 -38
+delete 7
+delete -5
+delete -81
+insert -23 48
+find 11
+insert 27 17
+delete 67
+find -100
+find 79
+insert -35 32
+insert 48 -51
+find -98
+delete 90
+delete -99
+insert 12 -52
+find 31
+insert 21 -69
+delete -68
+insert -68 1
+find 99
+find 33
+insert -34 16
+insert 99 -14
+find -100
+find -32
+delete 58
+find -5
+delete 96
+find -49
+delete -53
+delete 10
+delete 56
+delete -12
+delete 41
+delete -3
+find 38
+delete 91
+insert 14 -71
+find 15
+delete -63
+find -41
+delete 5
+find 18
+insert -31 97
+insert 93 -40
+find 2
+delete 92
+find 60
+insert 61 -65
+insert 24 78
+find -61
+find 46
+find 8
+delete 15
+delete 4
+delete 85
+delete -79
+delete 72
+delete 52
+insert 25 -94
+find -31
+insert -88 -48
+delete -53
+find 8
+insert 50 -1
+insert -4 -95
+insert -69 -28
+insert 36 -7
+insert 10 14
+find -18
+insert 64 -34
+insert 70 18
+delete 93
+find -63
+delete 29
+find -64
+insert -35 -13
+find 13
+find 42
+find 17
+find -19
+insert 9 43
+find 21
+find 63
+find -56
+delete 59
+delete 12
+insert -8 1
+delete -79
+find -31
+insert -20 57
+insert 94 53
+insert 39 -30
+insert 72 -20
+insert 15 8
+insert -7 -29
+insert 38 50
+delete 0
+find 8
+insert 15 41
+find 31
+delete 98
+insert -29 -29
+delete -75
+find -52
+insert -85 -80
+insert 1 -12
+find -40
+insert -40 -44
+find -90
+delete 24
+find -28
+find -8
+insert -65 75
+find -67
+find 99
+find -4
+insert -52 -3
+find -85
+insert 99 -31
+insert -64 29
+find -52
+insert 62 -42
+insert -14 -65
+find 55
+find -65
+delete 3
+delete 28
+delete 61
+insert -57 37
+find 40
+delete 53
+find -92
+delete 67
+find 3
+find -56
+find 72
+delete -61
+find -58
+insert 66 22
+find 9
+find 63
+delete 72
+insert 27 -85
+insert -35 7
+find 70
+find 35
+insert -64 -16
+find -54
+find 37
+find 35
+find -23
+find 42
+delete -48
+insert 5 -70
+find -5
+find 34
+insert 70 0
+find -22
+insert 62 95
+delete 6
+insert -54 53
+delete -21
+insert -53 66
+find -23
+insert -83 -27
+delete 59
+delete 79
+find 78
+delete 3
+insert 53 55
+delete -69
+delete -41
+insert -4 17
+delete -5
+find 42
+insert -83 41
+delete 40
+find -63
+insert -57 86
+insert 74 17
+insert 4 0
+delete -43
+insert -5 6
+delete -23
+insert 18 74
+delete -69
+delete -44
+find 95
+find -34
+find 65
+delete 72
+delete -20
+delete 43
+insert -72 80
+insert -20 21
+find -63
+insert -75 77
+insert 42 -5
+insert 28 -22
+insert 37 -97
+delete 62
+insert -25 -20
+find -100
+delete 39
+delete -51
+delete -10
+find 60
+delete -45
+delete 59
+delete -43
+find -31
+find 83
+delete -20
+delete 86
+delete -84
+find 31
+find -98
+insert 44 54
+delete -65
+insert 67 33
+find 1
+find -71
+delete 24
+find 80
+delete -71
+find -15
+find 47
+find 78
+delete 34
+insert -88 -83
+insert 66 -71
+insert 20 47
+insert 36 -34
+delete 95
+delete 43
+delete 24
+delete 18
+insert -99 -1
+find -62
+find 57
+delete 95
+find -59
+delete -94
+find 27
+find -13
+delete -56
+find -23
+find -47
+find 28
+find -78
+insert -3 -58
+find 6
+delete -25
+delete -67
+delete -75
+find -14
+insert 81 80
+insert -61 -41
+insert -21 -80
+delete -35
+insert 28 18
+delete -44
+insert 99 62
+delete -59
+insert -53 88
+find 15
+delete 52
+delete 61
+find 59
+find 71
+delete 34
+insert 36 -87
+insert 31 -22
+find -41
+delete 25
+find -60
+find -23
+delete 18
+insert 80 6
+delete -5
+insert 31 -65
+delete 22
+find 36
+insert 32 -30
+find -32
+delete 26
+find 13
+delete -90
+delete 99
+insert -45 -25
+find 88
+find -26
+delete 0
+delete -36
+insert 85 -48
+find -41
+insert 57 4
+insert 79 80
+delete -86
+find 99
+delete 80
+find -6
+delete -60
+delete -94
+insert -10 -100
+insert -41 -48
+insert -25 -68
+delete 27
+insert 21 74
+insert 77 6
+insert 57 6
+find -37
+delete 41
+find -81
+insert 26 -41
+insert -15 59
+delete -63
+insert -62 -11
+delete -35
+delete -30
+find 74
+insert 19 -11
+insert -75 84
+insert -17 -55
+delete -7
+find -11
+insert 73 -84
+find -38
+insert -17 -59
+delete -36
+insert 79 -27
+delete 0
+find -58
+find -61
+insert -32 60
+insert -96 -62
+find -51
+delete -33
+find -78
+delete 12
+insert -44 27
+delete -9
+find 33
+delete 4
+delete 80
+find 64
+insert 95 90
+insert 56 -90
+delete -5
+find -35
+find -85
+find 37
+find 71
+delete -81
+delete -23
+find 56
+delete -82
+find -73
+insert 5 59
+insert -79 -65
+insert 64 1
+insert 74 28
+find 89
+delete -4
+delete -6
+delete 59
+insert -93 30
+find -63
+insert -60 57
+find -19
+delete 21
+insert -4 96
+delete -17
+insert 24 85
+delete -49
+insert -76 -60
+find -27
+delete -44
+find 7
+insert -82 -63
+find -93
+find 98
+insert 12 -69
+insert -67 70
+find 81
+find -18
+delete 59
+delete 2
+insert -16 27
+insert -54 52
+insert -46 63
+insert 29 33
+find -13
+insert -91 -63
+delete -27
+find 60
+find -61
+insert -60 -26
+insert 92 -67
+find -5
+insert -53 74
+delete -55
+find 97
+find -59
+find 81
+delete -100
+insert -33 61
+find 25
+delete 25
+delete -7
+insert -56 -15
+delete 88
+delete -76
+insert 25 -80
+find -1
+insert -55 77
+find -3
+insert 20 -22
+find -28
+delete 64
+delete 7
+insert -80 -68
+insert -34 1
+find 51
+delete 59
+find -33
+delete 6
+find 11
+delete 6
+delete 34
+delete -95
+insert 94 -65
+find -82
+find 65
+delete 92
+insert 76 76
+find 94
+insert 52 -3
+insert -36 -21
+find 75
+insert -24 -14
+insert 82 94
+insert -44 51
+insert -50 86
+insert -32 -29
+delete -77
+delete -90
+find -60
+delete 93
+find -4
+delete 90
+delete 70
+find 36
+find -45
+find 54
+insert 69 36
+delete -28
+delete -5
+insert -39 15
+find -35
+insert 46 -73
+delete 38
+delete -17
+find -32
+delete 98
+delete -4
+insert 16 56
+insert -9 10
+find -88
+delete -34
+delete -80
+delete 43
+find -72
+delete -50
+insert 72 -22
+find -38
+find 40
+insert 17 -34
+delete -2
+find 48
+find -29
+find -43
+insert 53 -79
+insert -81 6
+find 32
+delete 38
+delete -73
+delete -69
+delete -82
+delete -87
+delete 31
+find 37
+find -94
+delete 13
+delete 54
+delete -13
+delete -31
+insert 85 53
+delete -9
+find -51
+find 48
+delete -76
+delete 44
+delete 7
+insert 41 27
+delete 28
+insert -35 -14
+insert 30 93
+delete -34
+find 21
+find -74
+insert 93 90
+delete -49
+delete 94
+find 5
+find -60
+insert 45 -1
+delete -14
+find 1
+insert -58 66
+delete -6
+insert -54 -48
+delete -21
+find 55
+find -68
+insert -100 82
+delete 91
+insert 4 -4
+delete -4
+insert -9 95
+insert 30 73
+insert -4 -85
+find 1
+delete -100
+insert -34 -33
+delete 92
+delete 89
+insert 72 89
+delete 24
+find 35
+delete -71
+find -24
+delete 72
+delete -42
+delete 96
+find 51
+insert 94 -96
+find 46
+delete 40
+find 88
+find -64
+find 10
+delete 18
+insert -15 -50
+delete 13
+delete -63
+delete 10
+find 65
+find -84
+delete 64
+insert 74 10
+delete -100
+insert 80 -8
+delete 68
+insert -90 -3
+delete 70
+delete 8
+find -83
+insert 21 -99
+insert -37 11
+find -72
+delete -69
+find 96
+insert 16 -42
+insert -32 -34
+delete 61
+delete 25
+insert -50 74
+insert -80 89
+find -24
+find 3
+find 12
+insert -88 75
+insert 92 -92
+delete 83
+find -44
+delete 67
+insert -28 -67
+find -67
+insert 17 23
+insert -9 -47
+delete -67
+insert 72 44
+insert 21 -44
+delete -15
+insert -73 -23
+find 33
+delete 0
+insert -36 -33
+delete 36
+delete -85
+insert 74 -16
+find -51
+delete -98
+find 61
+find 17
+delete 93
+find -35
+delete -25
+delete -25
+delete -60
+insert 17 -8
+find 33
+insert 75 -79
+insert 42 42
+find -73
+insert 87 55
+find 32
+find 87
+insert 73 32
+delete -62
+find 72
+delete -92
+delete -22
+insert 94 70
+delete 28
+delete -5
+insert -55 -63
+find 82
+insert 35 21
+insert -72 -94
+delete -85
+delete -88
+find 4
+delete -21
+delete -11
+find 53
+find -44
+find -58
+insert -72 23
+find 29
+find -87
+insert 3 -71
+find -76
+delete 36
+find -60
+delete 90
+insert -98 -5
+find -66
+find -52
+insert -23 20
+insert 29 62
+find 9
+find 30
+insert 58 43
+insert -39 24
+insert -15 25
+find -32
+find -84
+insert -25 71
+delete -18
+delete -71
+insert -22 -42
+find -92
+insert 65 15
+insert 54 97
+delete 12
+find -50
+insert -36 -25
+delete 42
+insert -21 -88
+delete -11
+find 27
+delete 21
+find 76
+delete 63
+insert 59 71
+find -24
+insert 25 -69
+insert -89 43
+delete -86
+insert 92 -59
+find -14
+insert 59 -50
+insert -52 -11
+delete 95
+delete 49
+insert 67 -36
+find -22
+delete 38
+insert -26 -37
+find -38
+find -19
+delete -59
+insert 33 -66
+delete 71
+delete 89
+delete 52
+delete 10
+find 85
+delete -29
+delete 92
+find 22
+delete 23
+insert 29 50
+delete -33
+delete 3
+delete -99
+delete -97
+find -18
+insert 6 -3
+delete -20
+find 65
+insert 71 3
+find -58
+insert 59 78
+insert 82 1
+delete -37
+find 28
+insert -85 83
+insert 69 -68
+delete 4
+find 73
+insert 64 49
+insert -86 -34
+find 85
+find 4
+find -15
+find 58
+insert 50 -89
+find -87
+delete -93
+insert 82 43
+find 51
+insert -32 -93
+delete 93
+insert -95 42
+delete 71
+delete -95
+find -18
+find -11
+delete -22
+insert 96 -72
+delete 23
+insert 77 -17
+insert 12 -74
+insert -37 53
+delete -29
+delete -68
+delete 52
+find -87
+find -13
+find 84
+delete -19
+insert -10 59
+delete -14
+insert 87 61
+find 64
+insert 18 -24
+delete -11
+delete 75
+find 15
+insert 59 -40
+delete -14
+insert 1 73
+delete -62
+delete 25
+delete 37
+find -12
+find 75
+delete 37
+find 91
+delete -74
+find 56
+find 12
+insert -57 -73
+find 54
+insert 83 -60
+find -63
+delete 57
+delete -87
+delete -58
+insert -29 30
+insert -54 57
+delete -98
+delete 1
+insert 21 -43
+insert -67 -8
+find -88
+delete -54
+delete 85
+insert 63 74
+insert 20 -99
+delete 55
+delete -27
+delete 26
+delete -28
+insert 19 -73
+find -80
+delete -90
+find -44
+insert 21 48
+delete 23
+delete 6
+insert 84 -31
+insert -7 42
+delete -85
+delete -67
+find 23
+insert 43 47
+find -38
+find -64
+find 34
+find -37
+insert -59 85
+insert -52 8
+find 6
+find 73
+find -95
+insert -30 -58
+find 67
+delete 21
+delete -10
+insert 41 90
+delete -32
+find 14
+delete -75
+delete -3
+insert 14 88
+delete -77
+delete 25
+delete 99
+insert 49 -83
+delete 91
+insert -58 70
+delete -64
+insert 89 30
+find -31
+delete -71
+delete 4
+delete 12
+insert 77 -73
+find 96
+find 68
+find 46
+find 27
+insert -12 -98
+insert 87 97
+insert 12 -67
+find 1
+delete -74
+find -35
+delete -43
+delete 66
+find 72
+delete 97
+insert -9 51
+find 64
+insert 5 -9
+delete 94
+insert -67 33
+delete 95
+find -72
+find -1
+insert 96 -79
+find -97
+insert 79 69
+delete 3
+insert 50 70
+delete 1
+find 20
+delete -38
+delete 44
+find -91
+delete 41
+delete 24
+find -67
+find -62
+find -58
+insert 38 -55
+find 18
+insert -57 73
+delete 93
+delete 87
+insert 48 -41
+delete 62
+find 41
+insert 84 -78
+find -64
+insert -50 -79
+delete -12
+insert -66 0
+find -69
+delete -93
+delete 38
+insert -70 -17
+insert 69 30
+delete -72
+delete 86
+find 72
+delete 86
+insert -81 -77
+find -30
+find -16
+delete 95
+delete -90
+insert 1 5
+find 0
+find -77
+find -22
+find -49
+find 23
+find -61
+insert -67 63
+insert -80 57
+delete 95
+find -89
+find -15
+find 86
+delete -16
+insert -43 89
+delete 9
+find 37
+delete 66
+delete 46
+delete 60
+delete 18
+find 62
+delete 43
+find -61
+delete 77
+insert -5 69
+insert -84 7
+insert 0 30
+delete -59
+find 52
+find 80
+insert 44 -83
+find -77
+insert 22 -7
+insert -16 75
+insert -33 67
+find 96
+insert 76 17
+delete 93
+delete 20
+find 55
+insert -61 98
+delete 68
+insert 14 -36
+insert 7 -13
+find 81
+delete 79
+insert 8 -75
+insert -73 6
+insert 39 -65
+delete 78
+insert 28 -2
+delete -17
+insert -36 -67
+insert -67 64
+find -3
+find 3
+find 41
+find -30
+find -45
+delete -2
+insert 10 56
+delete -51
+insert -72 -73
+find 56
+find 97
+insert 40 -87
+find -79
+insert -7 -83
+delete 58
+find -67
+find 10
+delete 72
+delete -67
+insert -43 43
+insert 34 45
+find 63
+insert -6 -29
+delete -57
+insert 42 -44
+insert 16 -45
+find 33
+find -57
+insert 36 -5
+insert -61 -33
+insert -76 -10
+insert 20 -79
+find -35
+delete 40
+find 89
+delete 92
+find -74
+find -59
+find -98
+insert 4 36
+delete 47
+find 35
+find -89
+delete -38
+delete 50
+find -13
+insert 25 -84
+find -80
+delete 81
+delete 19
+find 94
+insert -41 -65
+insert -38 -17
+find 98
+insert 68 -8
+find -90
+find -5
+delete -48
+insert 76 -9
+find -47
+insert -40 -26
+insert -59 -64
+find 66
+delete -68
+find -34
+insert -61 1
+delete 89
+delete 37
+delete 53
+delete -59
+insert 72 -7
+find 1
+find -33
+delete 95
+delete 80
+find -28
+insert -3 90
+delete 29
+find -83
+find -93
+find -4
+delete 2
+delete 83
+find 33
+delete -43
+find -30
+delete 11
+insert 23 -83
+insert -97 98
+delete -73
+insert -87 -82
+find 43
+insert 82 -79
+insert 1 -31
+find 55
+delete -71
+delete 40
+delete -80
+delete -72
+insert 9 86
+delete -21
+find 55
+insert -91 82
+delete 74
+find 61
+delete 38
+insert -9 -16
+find 60
+insert 52 67
+delete -33
+delete 18
+insert -42 46
+delete 20
+find 16
+insert 29 -77
+delete -10
+delete -29
+delete 10
+insert 82 -51
+find -75
+find -24
+find 67
+insert 53 -21
+insert -87 49
+find -29
+delete -96
+insert 32 21
+find -87
+find -82
+find 2
+find 67
+insert -74 1
+insert 6 26
+delete 35
+delete 70
+find 69
+insert 63 82
+insert -49 -95
+insert -44 49
+delete 29
+find 44
+insert -38 99
+delete -44
+delete -7
+find -80
+find 41
+find 10
+find 62
+insert 43 31
+find 7
+insert -18 10
+delete -19
+delete -80
+insert 99 -37
+find -75
+insert -41 5
+find -75
+find -84
+insert -91 9
+delete 19
+delete -42
+delete -20
+insert 86 39
+delete -80
+delete -22
+delete -28
+delete -35
+find 14
+insert -51 91
+delete 54
+insert 61 4
+insert 59 13
+delete -45
+delete -9
+delete -13
+delete 3
+find -37
+insert -7 -83
+find 46
+insert -60 -89
+delete 6
+find 62
+find -76
+insert -78 86
+delete 15
+insert -15 17
+find -79
+insert -35 9
+delete 21
+find 47
+find -72
+find 25
+insert -95 65
+insert 19 -29
+insert -19 69
+delete 50
+delete 89
+find -41
+delete 60
+insert -62 81
+find -45
+find 73
+insert 77 -28
+insert -95 88
+find 31
+insert 55 -31
+insert 79 -52
+insert 0 -1
+delete -57
+delete 22
+find 74
+find 83
+insert 68 -76
+insert -90 97
+find 39
+insert 64 -4
+find 54
+find 54
+find -3
+delete -11
+insert -31 41
+find -31
+delete -64
+insert -61 62
+delete 74
+find -2
+find -2
+delete 47
+find -100
+insert 14 -4
+delete -79
+find -65
+insert 74 -94
+delete -29
+delete -35
+insert -4 -51
+insert -60 -60
+insert 70 -86
+delete -32
+find 95
+delete 11
+find 28
+delete 64
+find 12
+delete -47
+delete -32
+delete 6
+insert -1 34
+find 19
+insert 6 75
+find -1
+find 44
+insert -8 64
+delete -13
+insert 41 85
+find 73
+delete 2
+find -14
+find 85
+find 83
+delete 46
+find 30
+insert 5 12
+find -19
+insert 60 -73
+find -74
+insert 0 -44
+delete 45
+find 44
+insert 22 -55
+find 60
+find 29
+insert -63 -36
+insert 83 -1
+delete 38
+find 36
+insert -63 27
+delete -83
+insert -10 36
+find 46
+delete 7
+delete -61
+insert 22 -64
+delete -66
+find -68
+insert 56 -4
+find -9
+delete -100
+find 4
+delete 33
+find -85
+delete 10
+find -13
+insert -60 85
+find 0
+find 34
+delete 54
+delete 33
+insert -58 65
+insert 50 -39
+insert 94 -91
+insert 75 -35
+delete -40
+find -99
+find -31
+insert 44 -32
+find 29
+delete -24
+insert -4 -42
+find 71
+find -43
+find 8
+find -33
+insert 78 -39
+insert -25 89
+insert -87 -99
+find 67
+delete -21
+find -97
+insert 74 33
+find -50
+insert 58 8
+insert 29 -49
+insert -54 59
+insert 13 -67
+find 27
+insert -41 -32
+insert -76 -31
+insert 91 28
+insert 42 -16
+find -32
+delete 12
+find -84
+insert -73 -17
+insert -21 -92
+insert 90 -87
+delete 75
+insert 42 -57
+find -90
+delete -20
+find 87
+delete 60
+delete 18
+find -6
+insert -87 58
+insert 81 81
+find -36
+find 16
+insert -66 -42
+delete -51
+find -65
+find -71
+delete 53
+insert 71 84
+find 95
+find -31
+find 40
+delete 0
+insert -75 57
+insert -94 -58
+delete -57
+insert -21 -71
+delete 17
+insert -97 52
+insert -68 -57
+find -77
+delete 10
+insert 14 -93
+insert -72 -1
+find -20
+delete 62
+delete -57
+insert -68 46
+find 42
+delete 45
+find -5
+delete -34
+delete 48
+find -57
+delete 21
+find 36
+find -23
+find -4
+insert 47 -67
+insert 52 48
+find 95
+delete 10
+insert 37 -95
+find -66
+delete -85
+find 35
+find 9
+insert -89 35
+insert 25 -77
+insert -98 -29
+insert -41 -82
+find 48
+find 63
+delete -31
+find -11
+insert -75 -6
+delete -41
+find -97
+delete -2
+delete 29
+find 33
+find 42
+find -60
+delete -87
+insert 6 -27
+delete 21
+insert -97 -63
+find -28
+find -10
+delete 51
+insert -77 -90
+insert -74 83
+find 97
+delete 85
+insert -19 -21
+delete -27
+insert 55 36
+delete -72
+delete 35
+find 72
+find 6
+delete -51
+delete 84
+delete -16
+find 15
+find 86
+find -15
+delete 62
+insert -34 95
+insert -93 -80
+delete 14
+find -29
+delete 25
+find -52
+find -66
+delete -54
+insert 2 -70
+insert 86 90
+insert 22 77
+delete 60
+find 15
+delete 30
+find -16
+find 31
+insert -96 -60
+insert -1 17
+insert -1 67
+find -47
+delete 44
+find 47
+find -7
+insert -65 68
+delete 88
+insert 79 4
+find -38
+find 47
+insert -50 -59
+insert -10 58
+delete 60
+find 6
+find -54
+insert -56 42
+insert 91 -73
+delete 29
+insert -68 96
+insert 60 28
+insert -78 90
+insert 69 42
+delete -90
+find 19
+find -90
+insert -43 16
+insert -45 80
+delete 50
+delete 45
+insert -38 -25
+find -6
+delete 46
+insert 51 57
+insert -7 83
+delete 87
+delete 61
+find -17
+find -100
+delete -9
+find -76
+delete -52
+find -52
+insert 23 77
+find 98
+delete 56
+insert -81 62
+find 77
+find 71
+find 42
+insert 24 3
+insert -93 -12
+find 21
+find 69
+delete -70
+delete -25
+find -36
+insert -44 26
+delete 29
+insert -25 48
+find 53
+delete 40
+insert -62 -18
+find 62
+insert 35 22
+delete -65
+delete 57
+insert -7 87
+insert 20 -35
+delete -29
+delete 16
+find -98
+find -100
+delete -1
+delete -72
+insert -71 -82
+delete -36
+find 62
+delete -45
+find -66
+insert -4 91
+insert -65 65
+insert -47 -97
+insert 26 -28
+delete -19
+delete -87
+delete -27
+insert -88 -36
+find -69
+find 64
+insert -49 15
+find 91
+find -79
+delete -8
+insert 23 -43
+delete 76
+delete 72
+delete -15
+delete 35
+delete 50
+find -15
+insert -16 49
+delete -33
+find 32
+find -58
+delete -98
+delete 1
+delete -27
+find -8
+delete -49
+find 24
+insert 50 30
+insert -13 -34
+insert -63 37
+find -43
+find 47
+delete -60
+insert -38 -77
+find -38
+delete 66
+insert 53 -61
+insert -55 87
+find -77
+insert 75 73
+find -72
+delete -89
+delete -51
+delete 38
+find -26
+find -64
+delete 27
+find -10
+insert 61 -80
+delete 24
+find -35
+delete 70
+delete 92
+insert -33 19
+delete -40
+insert 78 -28
+insert -73 73
+insert -14 -53
+find 22
+find -52
+delete 57
+find 34
+find 34
+insert -46 51
+delete -76
+delete -17
+insert 74 54
+find -65
+find -81
+delete -5
+find 84
+insert -16 -69
+insert -93 -2
+find 80
+find -43
+insert 36 43
+delete 90
+find -84
+delete 54
+find 36
+insert -94 77
+find -40
+delete 27
+delete 94
+find -13
+insert -6 87
+delete 92
+delete -82
+insert -4 -15
+insert 92 -41
+insert -61 -73
+insert 93 -21
+delete -26
+insert -39 90
+insert -91 17
+insert 56 80
+delete -65
+find 35
+delete -81
+insert -57 71
+find 29
+delete -37
+delete -12
+delete 67
+find -52
+find 68
+delete -65
+insert -35 33
+find 34
+find -1
+insert -61 -14
+insert 74 11
+find 49
+insert -16 -79
+delete -5
+delete -20
+find 39
+find -81
+delete 98
+insert -39 -67
+delete 26
+delete -35
+find 61
+find 28
+find -49
+find 26
+delete -69
+find -79
+find -3
+delete -89
+find -11
+delete -28
+delete 17
+find -13
+insert -27 -28
+delete 51
+insert 47 -88
+insert -37 40
+delete -34
+delete -70
+delete 94
+insert -98 10
+delete 64
+insert 37 -47
+find -91
+insert -60 -79
+delete -100
+delete -94
+insert -55 49
+insert -90 1
+insert 2 57
+find -35
+delete -8
+insert -6 -53
+find -51
+find 94
+find -84
+find 48
+insert 9 21
+insert 9 67
+delete 92
+find 51
+insert 74 -96
+delete -23
+delete 30
+delete 1
+find 53
+delete -79
+insert 96 -68
+find 35
+find 37
+delete 12
+delete 8
+find 55
+insert 11 47
+delete -86
+find -86
+find -9
+find -16
+find 37
+insert 48 -10
+find 69
+insert -19 54
+insert 68 -97
+find 55
+find 19
+delete 75
+delete 38
+insert 26 29
+find 99
+insert 76 -10
+insert -88 -36
+insert 50 -88
+insert -66 81
+delete -33
+insert 21 87
+find 94
+delete 57
+insert 57 33
+insert -53 71
+find 29
+find 69
+delete 4
+insert 63 17
+find 42
+find -13
+delete -47
+find 49
+insert 56 -77
+delete 99
+find 55
+delete -65
+insert -59 27
+delete 65
+delete 93
+insert -34 -83
+insert -23 32
+insert -99 -73
+delete -12
+find 87
+find 40
+delete -82
+delete -27
+find 33
+find -23
+insert 96 19
+delete -40
+delete -4
+delete 77
+find 75
+find 91
+delete -10
+find -14
+find 85
+find -88
+delete 22
+delete -84
+find -51
+insert 22 -71
+delete -58
+find 34
+delete -62
+insert 37 96
+delete -97
+find 23
+delete 82
+insert -9 -31
+find -24
+insert 54 -25
+delete 78
+find -90
+insert -23 32
+insert -8 27
+delete -74
+insert 78 48
+insert 74 -5
+find -3
+delete -92
+insert 36 0
+delete 26
+find 51
+delete -97
+insert -90 -5
+delete 90
+delete 22
+find -84
+insert -9 -58
+delete -31
+delete -25
+insert -63 37
+delete 60
+insert 24 -4
+find 76
+find 26
+insert -94 29
+find -84
+find 92
+insert 48 14
+delete 16
+delete 54
+find 33
+insert -48 60
+delete -10
+find -84
+delete 47
+find -50
+find -32
+find -30
+insert -70 52
+insert 98 28
+insert 9 -71
+find 72
+find -23
+insert -44 62
+delete 8
+find -74
+insert 72 -58
+find 19
+find -98
+delete 55
+find -14
+insert -92 90
+find 59
+find -95
+delete 48
+delete 93
+find 49
+find 49
+delete 75
+find 86
+find 60
+delete 48
+delete 82
+insert 15 98
+insert -6 -15
+delete -46
+delete -98
+find 46
+delete -66
+find -21
+find 40
+find -1
+find -8
+delete -97
+delete 79
+find 41
+find -23
+delete 62
+delete 22
+insert 90 59
+insert -55 87
+delete -90
+delete 58
+delete 32
+insert 75 -76
+delete -26
+find 10
+insert -79 -7
+insert 37 -66
+delete -86
+delete -75
+delete -67
+insert 1 44
+find -2
+insert -73 -40
+insert 86 -43
+delete 76
+delete -23
+find -41
+delete -91
+insert -81 2
+delete 56
+delete 59
+delete -53
+delete -67
+insert 13 -14
+delete 90
+find -40
+find 96
+find 56
+insert -66 -16
+delete -37
+find -51
+insert -61 12
+insert 41 60
+find -70
+insert 12 -71
+insert -3 -39
+delete 83
+insert 11 -29
+find -19
+delete 82
+insert -27 68
+insert 11 83
+find 60
+insert -5 -76
+delete 89
+delete 15
+find 3
+delete -52
+delete -24
+delete -20
+find -50
+find -18
+delete -75
+find 38
+insert -77 7
+find -14
+find -4
+delete -13
+find -78
+delete 32
+find -67
+find -38
+find 51
+find -11
+find -47
+delete -85
+insert 35 71
+insert -63 9
+delete -40
+insert 32 -2
+find -72
+insert -2 24
+insert -36 -44
+delete -3
+insert 40 -39
+delete 13
+find -24
+find 55
+insert 16 -10
+find -10
+delete 23
+find 39
+delete 15
+delete -45
+delete -15
+insert -81 -97
+insert -24 -19
+delete -64
+find -20
+insert -14 34
+find -47
+delete -82
+delete 31
+insert -89 -90
+delete 94
+delete 52
+insert -10 -93
+find 75
+delete 76
+insert -66 -48
+find -48
+insert 37 -16
+find 75
+insert 15 81
+find 33
+find 44
+insert 14 54
+insert -40 -44
+delete 21
+find 37
+insert -26 -51
+insert 57 -65
+delete -27
+delete 45
+delete 24
+insert 37 -53
+find 18
+delete -15
+delete -48
+insert -13 58
+delete 47
+insert 59 -80
+delete -4
+find 39
+find 51
+insert 33 -92
+find 73
+insert -17 -50
+find -80
+find -5
+delete 57
+find 60
+delete -12
+insert 20 -31
+find -14
+find 66
+delete -23
+delete -10
+find 66
+delete -39
+find -89
+delete -67
+find -64
+insert -33 34
+delete -94
+insert 7 18
+insert 95 17
+insert -35 -85
+find -54
+delete 63
+delete 96
+delete -49
+find -4
+delete -58
+find 46
+delete 54
+delete 55
+insert -79 78
+find -36
+find -3
+delete -67
+find 94
+find 81
+delete 44
+find 21
+delete -38
+delete -30
+find 74
+delete 71
+insert -19 98
+find -84
+insert -91 -63
+delete 88
+delete 21
+delete 23
+find -97
+find -48
+find -73
+find -50
+delete 67
+insert -73 -62
+delete 53
+find 65
+find -47
+delete 75
+insert -31 36
+delete 53
+insert 12 -26
+insert -65 80
+find 4
+insert 56 32
+insert 58 -68
+find -77
+delete -11
+insert 65 -38
+delete 4
+insert -2 -68
+find 68
+insert 47 -27
+insert -89 -1
+delete -54
+find -17
+find -37
+delete -65
+find 98
+delete 98
+insert -21 -12
+delete 96
+find 24
+delete 69
+delete 32
+find 43
+insert -94 -84
+delete -83
+delete -36
+delete 46
+find 19
+insert 39 54
+insert 37 -79
+delete -38
+delete 46
+insert -52 -52
+insert 49 -82
+find -67
+find -54
+insert -66 -38
+insert -96 29
+insert -80 -73
+insert -9 40
+delete -55
+delete 28
+find 7
+find -29
+find 46
+delete -46
+insert 72 -76
+delete -94
+insert -75 -56
+insert -13 33
+delete 69
+delete -85
+find 38
+delete -11
+insert 3 -11
+delete 21
+delete 53
+insert -98 -1
+insert -44 74
+delete -68
+find 46
+delete 78
+insert 23 -83
+delete 66
+find 14
+find -61
+delete 91
+insert 34 -6
+find -3
+delete 66
+insert 12 20
+insert -20 76
+delete -79
+insert 81 19
+insert 11 10
+find -20
+insert -14 71
+delete -80
+insert -43 -89
+find 43
+insert -41 92
+find -75
+find -10
+find -4
+insert -27 24
+delete -67
+find -37
+delete 68
+delete 98
+delete -36
+find 71
+insert -44 33
+insert -80 -77
+delete -22
+find 66
+find -88
+find 46
+insert -44 -31
+delete 80
+delete 21
+insert -23 51
+delete 55
+insert 58 -81
+delete -19
+find -58
+insert 66 -38
+insert -8 -8
+delete -42
+insert 90 -82
+delete 0
+delete 64
+find -45
+find 56
+delete 58
+find -98
+delete -92
+delete 33
+insert -58 73
+insert -91 -8
+find 51
+delete 42
+find -58
+delete -29
+insert 36 23
+insert -48 10
+delete 82
+delete 40
+insert -22 42
+insert -61 3
+insert -67 -3
+insert -79 -42
+delete -29
+insert 40 65
+insert 34 -93
+delete 47
+find 40
+insert 96 -49
+find 78
+find -79
+insert -48 64
+find -9
+find -85
+delete -32
+insert -3 -22
+insert 20 91
+find -15
+insert -85 -56
+insert 14 88
+insert 1 36
+delete 82
+delete 69
+delete 36
+find -28
+insert 13 -9
+find 89
+insert -88 -13
+insert -99 59
+find -18
+insert 66 -3
+find 70
+find -71
+insert 13 65
+insert -53 -69
+insert -97 20
+delete -25
+find -32
+find -83
+insert -71 -70
+delete 70
+delete -44
+delete 13
+insert -79 62
+find 91
+delete 24
+find 91
+find 18
+delete -75
+find -58
+delete 4
+delete 82
+find 88
+insert 82 70
+find -21
+find -87
+delete 95
+insert 41 -83
+find 88
+insert 19 13
+delete -38
+insert -12 1
+insert 89 -4
+insert -55 18
+insert 69 6
+find 4
+find -2
+find 21
+delete -77
+find 41
+delete -15
+delete 5
+find -95
+find -84
+find -23
+insert 21 62
+insert 69 92
+insert -13 8
+insert 93 -75
+find 74
+find -97
+insert -65 -73
+delete 28
+delete -51
+insert -99 -53
+delete 72
+find -13
+find -29
+delete -89
+insert 29 55
+find -84
+find 79
+delete -11
+delete 35
+insert -97 -70
+delete 82
+find -20
+find 95
+insert -21 94
+insert -97 -91
+delete -47
+insert 13 -84
+delete -58
+find -31
+insert 88 -100
+find -71
+delete 7
+find 55
+insert 45 37
+delete 77
+find 82
+insert 98 76
+find -98
+delete -10
+delete 70
+insert -77 75
+delete 47
+find 59
+find 97
+delete 16
+delete 90
+delete 52
+insert 59 -59
+delete 36
+find -99
+delete 58
+insert -3 60
+insert 39 67
+find -53
+delete -87
+delete -10
+insert 8 78
+insert 91 -6
+insert 33 56
+delete 64
+find -48
+find -97
+insert 85 63
+find 15
+insert 31 -70
+insert -49 -32
+insert 94 -19
+insert -16 -10
+find -86
+delete -54
+find 56
+find -83
+delete 43
+insert -80 -21
+delete -67
+delete -97
+insert 31 -85
+delete 61
+find 38
+find 17
+find -38
+find 69
+find 19
+delete 54
+find -56
+insert 44 -86
+find -60
+find -97
+insert 39 88
+find -5
+delete -82
+insert -69 31
+insert 22 13
+insert -94 75
+insert 75 -20
+delete 11
+insert 52 55
+insert -51 69
+delete -59
+delete 86
+insert 12 26
+delete 59
+find 69
+delete -46
+delete -97
+find 65
+delete 82
+insert 21 10
+delete 8
+find 12
+delete 76
+find -38
+delete -4
+delete 18
+insert 67 -70
+delete 18
+delete -68
+delete 63
+find -9
+delete -86
+insert 24 96
+delete -55
+insert -73 54
+insert 39 67
+delete -96
+delete 6
+find -16
+find -12
+delete 59
+insert 69 0
+delete 60
+find -77
+find 81
+insert -40 5
+delete 14
+find -56
+insert -91 -24
+find 28
+delete -62
+delete 90
+find 93
+insert 31 96
+insert -16 17
+delete -30
+delete 93
+delete -20
+find -65
+find -68
+insert -93 -13
+delete 49
+find -7
+find -76
+delete -79
+find 19
+insert -70 90
+insert -74 -33
+delete -5
+delete -47
+insert -61 -1
+find 66
+insert -2 50
+delete 5
+delete -24
+insert -14 22
+delete -37
+delete 63
+delete 71
+delete 79
+delete 26
+find 80
+find -47
+find 63
+delete 69
+insert 82 35
+delete -20
+insert 59 86
+insert 87 93
+delete 9
+find 29
+delete -2
+delete -16
+delete 60
+insert 55 -30
+find -36
+find 55
+find -48
+insert 45 -65
+insert 97 -33
+find 8
+delete -72
+delete 98
+delete -95
+find -77
+find 35
+delete -98
+insert 17 99
+insert 87 29
+find -38
+find -33
+find 61
+insert 50 24
+insert 69 25
+insert 75 54
+insert 25 -52
+delete -89
+delete -57
+find 81
+insert 11 -2
+insert 82 -14
+insert 18 48
+delete 38
+delete -25
+find 17
+find -35
+delete -23
+find -38
+insert -93 39
+delete -16
+insert -92 27
+find 89
+delete 12
+delete 21
+insert -23 99
+insert 78 62
+delete 93
+delete -94
+delete 89
+insert 98 -33
+delete -88
+insert -29 51
+insert 55 -46
+find -66
+insert 83 11
+insert -77 84
+find -48
+find -74
+insert 46 -19
+find 35
+insert -13 25
+find -15
+find 27
+insert 94 98
+find -71
+delete -94
+insert 40 -39
+insert -49 -24
+insert -64 -10
+find 72
+insert -35 -30
+find -59
+insert -63 28
+delete -48
+delete -74
+delete 66
+delete 30
+insert 54 -64
+find 77
+find 86
+delete 80
+find 18
+find 5
+find 88
+delete 22
+delete 23
+find -85
+find -57
+insert 65 -92
+insert -3 74
+find -73
+delete 55
+insert 69 -15
+delete 8
+find 71
+find 40
+delete 32
+delete -21
+insert 67 -11
+delete -18
+delete -6
+insert 7 -89
+insert 35 -40
+find -11
+find 3
+delete 2
+delete -19
+delete -15
+find -83
+delete -57
+find -56
+delete -64
+delete 59
+delete -18
+find 83
+insert 18 -58
+delete -97
+delete 52
+find -82
+find 17
+insert -54 42
+find -8
+delete 99
+find 39
+find 71
+find 86
+insert -15 -3
+find 19
+find 72
+insert -92 -86
+insert 63 44
+find 77
+insert 88 -5
+delete -65
+find -74
+find -83
+insert -7 8
+find -36
+insert 10 76
+delete -92
+delete -52
+delete 38
+find -41
+delete 40
+insert -52 37
+delete -89
+insert -53 40
+find -64
+find 44
+find 92
+find 14
+find -46
+find -74
+find -13
+insert 95 -13
+insert 33 36
+insert -14 -24
+find 34
+find -30
+find 39
+delete -62
+find -42
+find 47
+find 48
+insert 29 -36
+delete -13
+find -79
+delete -71
+delete -86
+find 2
+find 14
+insert 78 85
+delete 92
+find 24
+delete -23
+insert -62 35
+insert 86 50
+find -25
+insert -17 -34
+insert 26 -61
+insert 8 -93
+find 26
+delete 14
+delete -51
+delete -74
+delete -64
+delete -100
+delete 10
+insert 10 97
+find -52
+delete -1
+insert -72 83
+delete -1
+delete 32
+insert 69 39
+insert -4 -51
+find 37
+insert -80 63
+find -92
+insert -22 -20
+delete 92
+delete -92
+insert 42 56
+find -83
+delete 7
+delete -64
+find -58
+find -10
+delete 95
+insert 82 70
+insert 85 42
+find 11
+insert -9 90
+delete 2
+insert 25 10
+find -33
+insert 32 -64
+find 91
+delete 43
+find 88
+delete -97
+delete 76
+insert -44 -2
+insert -59 -59
+insert 4 92
+insert -6 -77
+find -71
+insert -85 88
+delete -66
+find 55
+delete -36
+insert -63 76
+insert -82 31
+insert 94 -27
+insert -8 -58
+find 33
+delete 16
+delete 56
+insert 0 -40
+delete 52
+find 32
+delete -39
+insert -74 55
+delete -21
+delete 97
+delete 62
+insert 87 8
+find 57
+insert 47 21
+find 1
+insert 63 -91
+find -84
+insert -5 68
+find -73
+find 58
+delete -82
+find -96
+insert -91 53
+find 23
+delete 9
+delete 87
+delete 84
+delete 40
+delete 87
+insert -67 48
+insert -51 -82
+insert 70 15
+find -90
+insert 86 80
+find 90
+delete -96
+delete 53
+insert 76 -86
+find 15
+insert 43 -98
+insert 65 41
+find 51
+find 83
+delete -40
+delete 22
+insert 61 32
+find -1
+delete 47
+find -5
+insert 84 -100
+delete 60
+find 91
+delete -100
+insert 82 26
+insert 23 -72
+insert 65 -89
+delete -75
+delete -70
+insert -17 15
+delete 82
+find 56
+delete -73
+find -93
+delete 40
+insert 95 -16
+insert 47 23
+find -27
+delete -95
+delete -17
+insert -83 91
+delete 39
+find -96
+find 36
+delete 56
+delete 22
+insert -4 82
+insert -24 -25
+find -77
+delete 9
+find -66
+delete 96
+find 48
+find -56
+delete -33
+delete 22
+delete -91
+find 81
+delete -56
+delete 66
+insert -79 -86
+find 12
+insert 76 -26
+find -13
+delete -65
+delete -22
+delete -66
+find -19
+delete -99
+delete -82
+delete 8
+delete 54
+insert -71 51
+find 47
+delete 5
+delete 22
+delete -97
+insert 95 -32
+delete 30
+find 62
+delete 35
+delete 87
+find 80
+find -31
+find -84
+insert -18 22
+find 11
+insert -46 -90
+delete 11
+insert -83 -20
+find -32
+find 94
+find 58
+delete 20
+insert 84 -31
+find 5
+find 99
+insert 3 -85
+find 85
+delete -73
+insert 63 -19
+find -42
+insert 81 -73
+delete 7
+delete 1
+delete -95
+delete 51
+insert 30 -13
+find 88
+delete -1
+find 19
+delete 54
+delete 40
+find -50
+find -93
+delete 99
+delete -24
+insert -56 2
+delete -8
+delete -7
+find 66
+insert 26 -52
+delete -76
+insert -72 -25
+delete 47
+insert 30 70
+insert 74 72
+delete 33
+delete -39
+find 32
+find 47
+delete -67
+insert 41 27
+insert -41 23
+delete 7
+find 42
+delete 88
+find -76
+insert 98 6
+find 20
+find 82
+insert 66 -62
+find 17
+find -64
+delete 9
+delete -93
+delete 97
+insert -38 -28
+insert 22 -68
+delete 70
+find 24
+insert 7 22
+delete 65
+find -63
+delete 76
+delete 38
+insert -27 -39
+find -11
+delete 26
+delete 26
+insert -5 40
+find -40
+insert 79 67
+insert 51 -57
+find -41
+delete -13
+find 12
+insert 24 -12
+find -37
+find -99
+insert 16 -58
+find 94
+find 25
+delete 37
+insert 68 97
+find 0
+find -83
+find 11
+find 10
+insert 38 -13
+delete -37
+insert 33 91
+find 93
+insert -45 9
+delete -46
+insert -70 32
+insert 67 50
+find 17
+insert 45 -67
+insert 96 45
+delete -41
+insert 41 -2
+find -96
+insert 4 48
+delete -2
+insert -5 -93
+find 49
+delete -86
+insert 39 82
+delete 84
+delete 18
+insert -16 -79
+delete -71
+find -59
+insert 18 39
+delete -26
+find 83
+delete -60
+insert -33 35
+insert -48 -63
+find -82
+find 95
+insert -46 31
+insert 24 -87
+delete 45
+insert 17 22
+find -75
+delete 75
+find 14
+delete -62
+find 68
+insert 8 3
+find 12
+find -85
+insert -89 62
+delete -83
+delete 35
+find -41
+insert -62 -46
+find 60
+delete -87
+find -83
+find -33
+delete 7
+insert 12 79
+find 68
+insert 29 -40
+find -40
+delete -79
+find -60
+delete -22
+delete 26
+insert 24 80
+delete -16
+find -45
+delete -61
+delete 4
+delete 84
+delete -52
+insert -72 68
+delete 9
+delete -36
+delete -48
+delete -35
+delete 52
+insert 78 -22
+find 2
+insert -61 38
+insert -54 75
+insert 23 -21
+insert -41 -57
+delete 74
+find 27
+find 33
+find 96
+find 59
+insert 20 -96
+find 67
+delete -83
+insert -64 -73
+insert 26 -40
+insert 2 -65
+find 33
+delete 84
+delete 5
+delete -99
+find -58
+delete -8
+find 41
+insert -28 -87
+find -89
+delete 41
+delete -51
+insert -45 -95
+insert -33 59
+insert 3 -64
+find -3
+insert 72 55
+find 25
+insert 24 -88
+delete 14
+delete -65
+insert 19 -58
+insert -48 36
+find 1
+delete 85
+insert -75 -47
+find 35
+insert -95 31
+delete 77
+insert 12 -89
+delete -48
+insert 93 -17
+insert -2 -30
+delete -83
+find -57
+insert -99 73
+delete 70
+delete -71
+delete 63
+delete 31
+insert -96 -38
+delete 34
+delete 41
+delete 47
+insert 85 -8
+delete -9
+delete -49
+delete -92
+insert 79 -71
+delete 52
+find -60
+insert 82 88
+insert 33 19
+find 37
+delete 82
+insert -48 -24
+insert 51 -79
+find -57
+find 49
+delete -94
+find 45
+insert -36 75
+delete 68
+delete -12
+find -39
+find 12
+insert 47 14
+delete -19
+insert 7 -15
+find 80
+find -2
+find -69
+delete -9
+find -90
+insert 14 -63
+insert -11 33
+insert 69 -79
+delete -70
+insert -93 -75
+insert -27 9
+find 22
+find 63
+find 1
+delete -4
+insert 35 1
+find 52
+find 11
+delete 0
+insert 8 -67
+find -23
+delete -93
+insert -45 -85
+delete -48
+delete 46
+insert 62 14
+insert 61 67
+insert -91 -41
+delete -38
+insert 89 26
+find -92
+insert -91 -31
+find -26
+find 70
+find -94
+delete -100
+delete -70
+insert 89 12
+find -44
+find 16
+find -41
+delete -66
+insert 88 -72
+insert -34 34
+delete -7
+delete 63
+find -83
+insert -73 -49
+insert -47 -97
+insert -17 -56
+find 47
+find -39
+delete 64
+find 16
+insert 19 -88
+find -1
+delete -51
+delete 91
+find 29
+insert 51 46
+insert 79 49
+delete 84
+find -49
+delete 49
+insert 67 97
+delete -76
+delete -98
+insert 56 -27
+insert -9 72
+insert 41 58
+find -65
+find -48
+insert 85 -80
+delete -13
+insert 2 92
+delete -26
+insert 16 -58
+delete -67
+find 57
+delete 59
+find -88
+insert 57 37
+delete -2
+delete 15
+insert 34 67
+delete -29
+delete -6
+find 47
+insert 2 -94
+insert 96 -26
+delete -61
+delete -16
+insert -53 -57
+insert -88 -90
+insert 49 -72
+find 96
+find 6
+insert -38 -18
+delete -99
+delete -84
+find 26
+find 6
+insert -82 81
+delete -43
+delete -49
+find -12
+insert -33 -48
+find -63
+delete -64
+delete 49
+insert 16 -69
+find 98
+find 94
+insert 5 -6
+delete 75
+delete 7
+insert 82 -26
+insert 75 -23
+find -85
+find -24
+insert 31 -35
+find 20
+delete 71
+insert 91 54
+find 42
+find 43
+delete 48
+insert -25 -24
+find 34
+insert 73 -92
+find 48
+find 86
+find 12
+insert -69 -57
+insert -47 15
+find -76
+delete -1
+insert 16 -59
+delete -41
+find -26
+delete 37
+find -12
+find -24
+delete -69
+find 61
+insert -60 -23
+delete -45
+delete 28
+insert 13 -57
+delete -11
+find -7
+find -22
+find 46
+delete 97
+find 39
+find -25
+delete 10
+insert 93 -7
+insert 7 14
+find 84
+find -95
+find 74
+insert 58 70
+find -53
+delete 80
+find 63
+insert 65 -47
+find 86
+delete 50
+insert 24 -40
+delete -30
+insert 22 77
+find 20
+insert -34 25
+insert 92 69
+find 14
+insert 15 -53
+delete -14
+find -46
+delete -85
+insert 90 59
+find -97
+delete -69
+insert 54 37
+find -17
+find 61
+delete 74
+find 53
+find -93
+insert -67 -85
+delete -20
+find 74
+delete -92
+find -91
+delete 68
+delete -3
+find -95
+find -9
+find -82
+insert 94 74
+delete 42
+insert 32 -53
+insert -8 -80
+find 7
+insert 34 -39
+delete 28
+insert -87 38
+find 34
+insert -55 5
+insert 26 96
+insert 44 29
+find -29
+insert -37 72
+insert 10 -60
+find 31
+delete -42
+find 79
+delete 78
+insert 42 44
+find -10
+find 5
+insert 35 69
+find -16
+insert -38 -87
+delete 33
+insert -20 5
+delete 42
+delete 51
+insert 43 61
+find 22
+insert -1 -70
+delete -57
+delete -83
+find -15
+find 61
+delete -77
+find 50
+find -90
+find -81
+insert 99 -24
+insert 42 74
+delete 67
+delete 66
+insert 91 51
+find 74
+insert -69 -98
+delete -43
+find 53
+insert -6 76
+delete -55
+find 77
+delete -67
+insert 64 -39
+find 6
+insert 85 -75
+insert 3 62
+delete -46
+find -78
+find 33
+delete -70
+insert -84 35
+find -37
+find 27
+delete 26
+delete -76
+delete 83
+delete 24
+delete -54
+find 1
+delete 68
+delete 86
+find -42
+find 90
+find -79
+insert 26 16
+find -39
+insert 50 25
+insert -90 -97
+insert -65 14
+find 75
+delete 12
+delete 3
+insert 98 -29
+find 84
+find 79
+delete -70
+delete 97
+insert -99 13
+find -37
+insert 87 88
+delete 98
+find -38
+delete -42
+delete 12
+insert 22 -14
+insert -61 -16
+find -92
+delete -84
+delete -56
+insert -37 -58
+insert -83 55
+delete -20
+insert 24 -80
+insert -26 64
+find -89
+delete 72
+find -76
+find -90
+find -14
+find 5
+find -33
+delete -65
+insert 67 -50
+delete -33
+delete -87
+insert -1 -37
+find 20
+delete 55
+insert 24 19
+find -51
+delete 88
+find -95
+delete 82
+insert -78 -71
+insert 43 -36
+find -38
+insert -58 30
+insert -45 -14
+insert -30 67
+find 85
+insert -54 -39
+find -42
+delete -63
+find -94
+find 15
+delete -53
+find 70
+insert -68 87
+delete -54
+delete 45
+insert -8 -100
+insert -70 -77
+insert -60 -92
+delete -13
+delete -97
+insert 80 92
+delete 86
+insert -90 -21
+insert -1 -50
+find -17
+insert -44 -19
+insert 53 -90
+find 53
+find 18
+insert 11 58
+insert 21 -55
+delete -24
+delete 86
+insert -63 24
+find 99
+delete -58
+insert -46 95
+find -57
+insert -85 -62
+find 77
+find -39
+delete -57
+insert -35 -98
+find 38
+delete 32
+insert -6 -30
+find 31
+delete -56
+delete 99
+delete 81
+insert 85 -33
+delete 40
+insert -62 -4
+find 63
+delete 65
+delete -1
+find 61
+delete -27
+insert 10 -60
+insert 81 -24
+find 28
+insert -79 -21
+insert 54 -16
+delete -79
+find 87
+find 22
+find -82
+find 44
+insert -56 96
+delete 57
+find 91
+insert -64 -69
+delete 69
+insert 66 -51
+find 39
+find 45
+insert 64 92
+insert -52 31
+find 22
+find -7
+insert -38 -71
+delete -42
+find 14
+delete -58
+insert 73 -75
+insert -6 -64
+delete 44
+insert -78 -28
+delete 16
+delete -92
+delete -63
+find -89
+insert -43 -44
+find 19
+delete -72
+find -12
+delete 14
+insert -70 -13
+insert 95 82
+delete -22
+delete -86
+find 50
+insert 69 39
+insert 5 29
+delete -32
+delete 86
+delete 13
+delete 14
+delete -64
+find 88
+find -63
+delete -62
+insert 65 72
+delete -57
+insert -46 44
+insert -15 13
+find 23
+insert -79 -95
+insert -38 91
+insert 27 -3
+insert -80 -15
+delete -92
+delete 24
+find -26
+find 92
+insert 8 88
+delete 63
+insert -52 -100
+delete 40
+insert 67 13
+delete 57
+insert -28 -77
+find 21
+delete 23
+insert -57 -17
+find 19
+insert -31 87
+delete -33
+delete 95
+delete 63
+find 63
+find -24
+insert -62 -57
+find 19
+delete -3
+find 27
+insert -36 -17
+insert -77 -22
+delete -82
+delete 72
+find 37
+delete 54
+insert 26 -31
+insert -95 85
+delete -19
+insert 1 -24
+insert 72 80
+delete 15
+insert -89 32
+find 89
+insert -78 -49
+insert 71 -76
+delete 8
+insert 20 -7
+insert 89 93
+delete 74
+delete -27
+delete -38
+insert 78 -66
+delete 89
+insert -62 52
+insert 81 42
+find 55
+delete -33
+find 69
+delete -65
+insert -99 -19
+delete 42
+insert 2 -31
+insert 75 -64
+delete -23
+insert -17 -93
+delete 85
+find 8
+find 30
+find 13
+find 48
+insert 65 17
+insert 52 46
+delete -67
+insert -39 -88
+delete -18
+find -61
+insert -4 16
+insert 31 -25
+find 17
+find 49
+delete 7
+delete 53
+insert -48 -62
+insert 21 -97
+delete -80
+find -52
+insert -13 -88
+insert 69 -89
+insert -13 -41
+insert 72 90
+delete -87
+find 57
+find 0
+insert -81 -95
+find -29
+insert -77 44
+delete -62
+find -27
+insert 46 12
+insert 91 -19
+insert -24 68
+delete 82
+delete -38
+insert 6 -26
+delete 73
+delete 37
+find 79
+insert -85 75
+delete 12
+delete 12
+delete 51
+delete -78
+delete -100
+insert 44 -87
+insert -36 -15
+find 57
+insert 39 -84
+find -88
+find -1
+insert 34 -69
+find 1
+find -75
+delete -16
+find -10
+delete -61
+insert -50 -61
+find 94
+find 21
+insert -59 -3
+delete -7
+find 84
+delete -99
+delete -30
+insert -41 -47
+insert 61 -89
+delete 26
+insert 20 -84
+find 60
+insert -16 99
+insert -70 56
+insert 92 97
+delete 60
+delete 67
+insert -39 20
+delete -17
+insert -67 36
+find 46
+delete -90
+find 46
+insert -59 32
+delete 22
+find -58
+find 98
+insert -34 90
+delete 96
+find 90
+find 51
+insert -65 25
+insert -91 11
+delete 89
+insert 21 99
+insert -33 -18
+delete 99
+delete 50
+find 68
+find 17
+insert -49 -40
+find 99
+delete -91
+insert -34 -88
+delete 44
+find -36
+insert -27 -95
+delete 95
+find -1
+insert -61 27
+delete -88
+delete -15
+insert -38 55
+find -35
+find 17
+find 30
+insert 31 48
+find 86
+delete 42
+find -1
+insert -45 16
+delete -89
+insert 29 -50
+insert -5 -85
+find 32
+find 85
+insert 98 -50
+insert -32 15
+insert 46 98
+find 89
+delete -75
+delete -66
+insert -1 -59
+find -39
+find -92
+insert -45 -46
+delete -78
+insert 22 22
+insert -91 -28
+delete -36
+delete -20
+delete -61
+delete 33
+find -37
+insert -36 -50
+find 63
+insert 81 76
+delete 41
+insert 4 95
+insert 26 72
+insert -100 35
+insert -27 49
+find 65
+delete -92
+find -40
+insert 37 -24
+find -99
+find 93
+insert 69 74
+insert -82 15
+delete 22
+delete -76
+find -66
+insert -99 70
+find -26
+find 58
+insert -48 67
+delete 13
+find -15
+find -34
+delete -81
+insert 54 88
+delete 98
+insert -48 14
+find 14
+delete -67
+insert -4 86
+insert -53 -88
+delete 57
+insert 94 -24
+insert -41 37
+find -100
+find -26
+delete 66
+insert 59 3
+insert 18 55
+insert 50 -31
+insert 35 70
+delete 21
+find 26
+delete 82
+find -11
+delete 60
+find 87
+find -23
+delete -95
+delete 58
+find 32
+delete 79
+find -65
+insert -48 38
+delete -65
+find -22
+delete 47
+delete -11
+find -47
+delete 21
+delete -15
+insert -84 35
+find 55
+insert -6 13
+delete 78
+insert 48 -11
+insert -65 -7
+insert 44 28
+insert -78 -9
+delete -7
+find 61
+insert 5 -18
+insert 42 96
+delete -22
+find -50
+find -66
+delete 40
+delete -2
+insert 2 -32
+insert 95 76
+delete 24
+insert 94 67
+insert -60 -1
+find 86
+find 85
+find -2
+find -91
+insert 21 -88
+delete 55
+delete 91
+delete -75
+insert -78 -7
+find -83
+delete -68
+delete 31
+find -40
+find -82
+find -28
+delete -33
+find -29
+insert 43 -20
+find -35
+find 46
+find 72
+find 40
+delete 21
+find 95
+insert 32 -84
+insert 77 47
+delete -62
+find 62
+delete -8
+delete 21
+find 90
+delete 97
+find -15
+delete -33
+find 87
+insert -27 -21
+insert 46 94
+delete -20
+find 4
+insert 3 -96
+find -7
+insert 4 95
+insert 75 16
+insert 66 7
+delete 41
+find -13
+delete 28
+find 52
+insert 53 -55
+insert 47 33
+insert -27 -63
+find 29
+delete 66
+find -82
+find 21
+delete 98
+delete 62
+insert -4 -66
+find -59
+insert -83 69
+insert 21 22
+delete 66
+delete -52
+insert 53 -26
+insert 30 -97
+find -52
+find -48
+delete -49
+delete -79
+delete -95
+find 37
+find 46
+insert 61 15
+insert 9 -63
+delete -90
+delete 46
+find -45
+delete 32
+find 81
+find 30
+insert -83 83
+insert -32 -74
+find -40
+find 63
+insert -28 -39
+find 85
+delete -74
+insert 65 99
+delete 21
+find 15
+delete 49
+insert -76 31
+delete 54
+delete -44
+delete 66
+insert -32 92
+delete 0
+find 34
+find 68
+delete -39
+find 92
+delete -86
+delete 16
+delete -59
+delete -85
+insert -69 -61
+delete -30
+delete 87
+delete 87
+delete -98
+delete -3
+find 7
+insert -76 83
+insert -62 96
+delete -70
+find 86
+insert -79 -27
+find -96
+find 58
+delete -21
+find -43
+delete -81
+find -88
+insert 37 -81
+delete -24
+insert -19 -48
+delete 57
+delete -43
+insert -76 14
+insert 50 -13
+delete 17
+find 82
+delete -69
+find 7
+delete -14
+insert 76 -50
+find 13
+insert -69 41
+find 12
+insert -92 -31
+find -82
+find -87
+find -82
+insert -81 12
+delete -38
+find 55
+delete 55
+insert 34 94
+find 10
+find 50
+insert -34 81
+find -87
+delete -37
+insert -34 -49
+delete -84
+find -24
+insert -73 -53
+find 7
+delete 45
+delete 55
+delete -72
+find -54
+insert 3 -57
+insert -22 -39
+insert 47 -74
+find -90
+delete -82
+delete 44
+insert -22 72
+delete 6
+insert -75 -87
+insert 70 -72
+delete 74
+find -23
+find -67
+find -84
+insert -90 -71
+find 10
+insert 71 20
+delete 42
+find 4
+find -87
+find -45
+insert -4 -20
+find 77
+insert -36 -87
+delete -75
+delete 49
+insert 74 17
+find 37
+delete 88
+insert 54 12
+delete 62
+delete -94
+insert -13 71
+insert 42 -58
+find 74
+delete 69
+insert 43 35
+find 20
+find -94
+insert 4 23
+delete 93
+insert -12 -60
+insert -100 11
+find -94
+insert -40 -7
+insert 56 87
+delete 0
+insert 13 -31
+find -92
+find -3
+insert 34 3
+find 90
+insert 57 83
+delete -55
+insert -19 97
+insert 23 -97
+find 83
+insert 48 39
+insert 83 -61
+find -4
+find 89
+insert -83 -13
+delete 3
+insert -58 -55
+find 51
+insert 22 49
+delete -97
+insert -58 26
+insert 2 -38
+find -50
+insert 86 85
+find 34
+find -94
+insert -11 75
+insert -75 -21
+find -81
+find -73
+insert 5 49
+delete -40
+delete -82
+insert 83 68
+find 97
+insert 59 51
+delete 44
+insert 91 30
+find -33
+delete -23
+delete -55
+delete 36
+delete 85
+insert 87 -10
+delete 7
+delete 21
+delete 57
+delete -54
+insert -46 17
+find -95
+find 69
+find 18
+delete -97
+delete -30
+insert 68 -33
+find 4
+insert 26 -81
+find 68
+delete 79
+find 57
+insert 80 66
+insert -55 72
+insert -30 78
+insert -61 -69
+find -10
+insert 55 60
+delete -25
+delete 61
+insert 12 -12
+insert 83 -92
+find 14
+find -6
+delete -89
+find 79
+insert 85 4
+insert 63 55
+find 46
+delete -92
+delete -68
+delete -99
+insert 0 15
+find -88
+find 40
+find 63
+find -86
+find 72
+insert 58 84
+find -85
+delete 25
+find -16
+insert -88 -69
+insert 72 64
+delete -7
+find -100
+insert 85 90
+find 40
+insert -42 -45
+delete -76
+find 32
+delete 61
+delete 83
+find -62
+delete -77
+insert 41 87
+insert -50 60
+delete 44
+delete -56
+find 50
+delete 35
+delete 21
+delete -30
+insert -75 -5
+delete 57
+insert -8 -74
+delete -80
+insert -95 95
+find 46
+find -48
+insert -5 -74
+find -48
+find 89
+delete -97
+insert -85 24
+insert -15 -48
+find 32
+find -71
+find -25
+insert -61 -4
+find -56
+delete -35
+insert 78 17
+delete -27
+find 37
+insert 17 26
+insert -28 -97
+find 96
+find -16
+delete 68
+find -68
+delete -37
+insert -48 2
+delete -25
+insert 99 -7
+delete 30
+find -15
+find -42
+find -67
+delete -47
+insert -100 -44
+delete 48
+delete 0
+delete -27
+insert 34 -29
+delete 94
+insert 86 2
+find -63
+insert 48 -70
+insert 10 -32
+find 68
+delete 72
+delete -5
+delete -100
+insert -47 48
+find 53
+insert -66 75
+find -43
+insert 30 -16
+insert 84 87
+delete -63
+delete -35
+delete -54
+delete 12
+delete 28
+find 66
+delete -27
+find 27
+insert -33 -13
+find -31
+delete -94
+insert 30 -34
+insert -85 -36
+find 54
+delete 8
+find -32
+find -60
+find 93
+insert -18 -71
+insert 5 -46
+delete 84
+delete 10
+find 16
+delete -3
+find 36
+delete 40
+delete 95
+delete -6
+delete -93
+insert 43 -24
+delete 35
+find 34
+find 12
+find -81
+delete 70
+find 54
+insert 25 78
+delete -44
+insert -7 93
+insert -67 68
+insert 42 -85
+insert 49 22
+find 77
+insert 35 -93
+find -71
+find 12
+delete -11
+find -86
+find 36
+find 73
+find 48
+insert -100 41
+find 85
+insert -42 27
+insert 62 -71
+find 62
+find -39
+insert -86 -43
+delete -15
+insert -22 26
+insert -8 21
+delete -68
+delete -53
+delete -53
+find -75
+delete 84
+delete -35
+insert 15 80
+delete -35
+find -1
+find 91
+find 84
+delete 51
+find -1
+delete 9
+insert 51 -51
+insert 97 -4
+find 96
+delete 32
+find -21
+delete 17
+insert -14 -3
+insert 51 91
+delete -70
+delete -99
+insert 55 52
+delete -94
+insert 80 97
+insert 81 25
+insert -23 84
+find 24
+insert -18 -96
+find 51
+delete -22
+find 36
+find 91
+find -41
+delete -75
+delete 84
+delete -3
+find 12
+delete 88
+find -89
+delete -21
+find -51
+delete 65
+delete 93
+delete 10
+delete -80
+insert 45 8
+find -12
+find -71
+insert 58 -93
+delete -12
+insert -7 -100
+find -67
+insert -52 -2
+find -11
+delete 39
+find 70
+insert -21 -68
+insert -49 -79
+delete 60
+insert 66 -8
+delete -16
+insert 79 86
+insert -65 -21
+delete -27
+insert -13 21
+find 16
+delete -86
+delete 20
+find 39
+find 68
+find -49
+insert -55 -89
+find 63
+delete -91
+insert 6 88
+delete -56
+insert -35 35
+delete 29
+insert -26 -56
+find -63
+delete 45
+insert 46 -64
+delete -34
+find 12
+insert 53 -25
+delete 16
+find -47
+delete -64
+find 48
+delete 70
+insert 68 23
+delete 90
+insert -9 -19
+delete 1
+find -4
+delete -85
+find -35
+insert -31 -75
+find -4
+insert 44 -74
+insert -89 -85
+delete 59
+delete -61
+find -84
+delete 72
+delete 12
+insert 91 -2
+insert 70 94
+insert 85 51
+insert 8 72
+find -12
+insert -72 -68
+delete 3
+delete -38
+insert 54 -38
+delete -69
+delete -21
+find 88
+find -82
+insert -59 34
+delete -64
+delete -13
+find -70
+insert 12 -64
+insert 80 -84
+find -73
+delete -86
+find -8
+delete 3
+find 4
+find 36
+find 22
+find -70
+insert 20 64
+insert 56 -86
+insert -52 96
+find 60
+insert -67 -8
+delete -48
+insert 19 -82
+delete -88
+delete -35
+delete 94
+insert -95 -94
+insert -16 -64
+find 56
+insert 86 13
+delete 33
+delete 62
+delete -27
+delete -88
+delete -2
+delete -63
+insert 86 99
+find -71
+find -49
+find 66
+delete 81
+insert -56 -83
+delete -100
+delete -92
+insert -12 -7
+insert -97 -27
+find 1
+find -83
+delete -94
+insert -82 44
+find -100
+insert -79 -49
+find 40
+insert -18 31
+delete -48
+delete -45
+insert -92 21
+insert -46 -1
+find 27
+insert 67 16
+delete 67
+insert 26 37
+insert -16 37
+find -43
+find 97
+delete 51
+delete 28
+find -16
+find -87
+insert -59 34
+delete -5
+insert 86 74
+find 53
+find -91
+find 17
+delete -91
+find 71
+insert 37 81
+delete 34
+insert 89 66
+delete 47
+insert 40 60
+delete 81
+find 81
+find -19
+insert -49 70
+insert -6 31
+insert -88 -82
+delete -48
+insert -49 89
+insert -11 24
+delete -70
+insert -36 77
+find -96
+insert 53 86
+insert -14 -37
+insert -95 -34
+insert -71 61
+find 25
+delete -59
+delete 77
+find -67
+insert -90 -26
+delete -37
+find -63
+insert -67 -18
+find 23
+find -30
+find -26
+insert -23 -20
+find -84
+find -35
+delete -65
+find 28
+insert 67 -37
+delete -14
+insert 25 -19
+find 82
+delete 68
+find 53
+insert -10 41
+delete 50
+delete 13
+find -4
+delete 95
+delete -18
+insert 44 -76
+find 62
+delete 29
+delete -70
+delete -10
+find 95
+find 34
+insert -60 -12
+delete 30
+find 48
+delete 97
+insert -89 -55
+find 59
+delete -36
+find -1
+delete -40
+insert -69 41
+insert -87 -4
+insert -71 -57
+delete 15
+find 81
+find -21
+insert 85 79
+find 34
+insert 8 80
+delete -33
+find 90
+find -66
+insert -28 -52
+insert -86 -26
+find -38
+insert -92 5
+delete 23
+insert -82 -21
+insert -18 -84
+delete 79
+find 69
+find 30
+insert 6 -83
+delete 18
+find -33
+find 0
+find 9
+insert -40 23
+insert -80 80
+find 43
+delete -71
+insert -58 -36
+delete -33
+find 41
+find -66
+insert 32 40
+find 70
+find -55
+find 5
+find -30
+find -77
+delete -11
+find 2
+insert -44 98
+insert -62 -80
+find 2
+insert 26 -3
+insert 63 31
+delete -52
+insert 20 70
+insert 65 59
+insert -38 82
+insert -62 -36
+delete -65
+find 68
+find 17
+delete -18
+find -8
+delete -48
+find -67
+delete 34
+insert -64 34
+delete 56
+delete 72
+find -84
+delete 36
+insert 21 26
+insert -80 62
+insert 88 -94
+find 74
+find -8
+find 76
+find -63
+find -47
+delete 25
+delete -42
+delete 49
+insert -64 -77
+delete -48
+find -19
+delete -62
+delete 45
+find -71
+find 10
+delete 7
+find -25
+delete -22
+find 63
+insert -75 -13
+insert -34 46
+find -85
+delete 69
+find 92
+find 3
+delete 46
+insert 20 -9
+delete 1
+insert 56 33
+find -41
+insert -90 -11
+insert 25 29
+insert 65 -55
+delete 11
+insert 91 24
+find 34
+delete 68
+insert -7 14
+delete -87
+insert -20 15
+find -63
+delete -35
+insert 60 -73
+find -7
+delete -82
+insert -30 -36
+delete 33
+find 69
+delete 41
+delete 25
+insert -8 -82
+delete 74
+delete 32
+find -2
+insert 96 -50
+find -56
+find 10
+delete -44
+find 52
+find -63
+delete -16
+insert 62 -95
+insert 3 8
+find 64
+insert -74 39
+delete -90
+insert 34 -40
+find 30
+insert -81 26
+delete -18
+find -18
+insert 63 40
+insert 31 77
+find -7
+insert 89 96
+find 97
+find -57
+delete -49
+insert -66 -74
+insert -54 15
+insert 57 34
+find 83
+find -24
+insert -82 -61
+find 5
+delete 83
+delete -84
+find -93
+find -92
+find -23
+insert -71 29
+find -85
+delete 83
+delete -78
+insert -81 9
+delete 54
+delete 66
+insert -5 57
+delete -100
+delete -35
+find -51
+find -26
+delete 91
+delete -9
+insert -40 72
+insert -25 -20
+insert 37 2
+insert 8 -89
+insert -86 -11
+find 86
+delete 43
+delete 37
+delete 81
+delete -75
+delete 82
+insert 7 -38
+insert 2 -26
+delete -77
+delete -13
+delete -61
+find 54
+delete 53
+delete 61
+delete -44
+find 30
+insert -84 -33
+find 50
+delete 52
+delete -94
+delete 73
+delete 78
+delete -54
+delete -98
+insert -28 30
+find -87
+delete 34
+insert -42 -52
+find -34
+find 95
+find 16
+insert 45 -34
+delete -50
+insert 96 45
+find -84
+delete -64
+insert -40 -61
+find 32
+delete 98
+delete 58
+find 68
+find 33
+find -17
+insert -72 -47
+insert -10 98
+insert -20 -52
+find -24
+delete 10
+find -31
+find -41
+insert 37 -78
+find -41
+insert -36 69
+delete -67
+find 90
+delete -80
+find -6
+find 25
+find -76
+insert 69 -76
+delete -55
+delete 3
+find 92
+delete 1
+find -9
+find -12
+insert -5 53
+insert 53 38
+find -5
+delete 81
+insert -50 -93
+insert 38 -69
+find 7
+delete -18
+delete -74
+delete 47
+insert -8 -52
+delete 35
+insert 32 -62
+find -63
+insert 23 75
+delete -81
+delete 56
+delete 33
+delete -62
+insert 94 27
+find -51
+find 88
+find -1
+delete 97
+delete 35
+delete -21
+insert 74 -31
+find -89
+delete 52
+insert -43 23
+insert -87 65
+delete 76
+find 32
+delete -18
+insert 71 96
+insert 51 -53
+insert 48 91
+delete 42
+insert 89 16
+insert -82 -21
+insert 71 70
+insert -6 93
+find -40
+insert 71 -85
+delete -7
+delete 4
+find -54
+delete 68
+delete -44
+insert -64 87
+find -42
+delete -22
+delete 95
+delete -25
+find 28
+find -88
+find -95
+delete -22
+find -60
+insert 74 -10
+find 91
+insert -16 11
+insert -8 79
+delete -21
+delete -24
+find -32
+insert -97 78
+find 21
+find -86
+find -16
+delete 58
+insert -48 98
+find -74
+find 54
+insert 76 91
+delete 57
+find -41
+delete 15
+find -48
+insert -78 82
+find -100
+delete 99
+delete -99
+find -4
+find -58
+find 77
+delete 41
+delete -20
+find 72
+find -61
+find 66
+find -37
+insert 89 -35
+insert -36 -13
+insert 42 -13
+find 41
+insert -32 78
+insert 45 -80
+insert 22 -87
+find 25
+delete 47
+find -46
+insert 1 -80
+find 64
+delete -50
+insert -89 15
+delete -10
+find 8
+insert 3 59
+delete -19
+insert 22 1
+find 96
+find 63
+insert 12 -37
+delete 66
+insert -77 86
+insert 39 -49
+delete 21
+find -72
+find 5
+insert -51 -86
+find -92
+insert 73 -34
+delete -73
+find -87
+insert -54 -14
+insert 9 -92
+insert 58 83
+find -31
+insert 13 34
+delete 27
+find 37
+find 3
+delete -54
+delete -1
+find 21
+delete 58
+delete -4
+insert 94 42
+delete 51
+insert -83 -25
+delete -100
+insert 82 -25
+insert 16 -30
+find -70
+find -91
+find -2
+insert -18 97
+insert -97 14
+delete 4
+find -69
+delete 4
+insert -99 7
+delete -24
+insert -89 -87
+insert -14 10
+find 8
+find 2
+insert -51 -64
+delete -43
+find -33
+find -26
+insert -82 30
+delete -98
+insert -100 95
+insert 8 -95
+find 29
+delete -77
+insert -46 33
+delete 63
+find 7
+delete -78
+delete 1
+delete 66
+insert 89 92
+delete -92
+delete -7
+insert -46 -6
+insert -65 54
+find -55
+insert 31 -32
+find 85
+delete -24
+find -21
+find -17
+find -70
+delete 32
+find 52
+delete 88
+find -19
+find 47
+delete 16
+insert 52 4
+delete 15
+find -14
+find 70
+delete 83
+find -18
+find 55
+insert 67 -92
+insert 52 -8
+find -44
+find 36
+delete 99
+delete -42
+find -33
+insert 47 71
+delete -86
+insert 41 -88
+delete 47
+delete -77
+find -69
+insert 98 51
+delete 98
+delete -70
+insert 11 47
+find -78
+insert -67 -68
+find 1
+delete -60
+find -58
+insert -51 84
+delete 96
+find -87
+delete -35
+find 49
+find 48
+find -87
+delete -31
+find 14
+find -58
+insert 15 -25
+delete -92
+insert 56 -100
+delete 98
+find -98
+find -76
+delete -82
+delete 70
+delete 87
+find -2
+delete 11
+delete -10
+delete -77
+insert 2 -83
+insert 69 -55
+insert 30 73
+delete 30
+insert -28 -11
+insert -94 -35
+find -76
+insert 54 7
+insert -74 58
+find -10
+find 23
+find 97
+insert -23 67
+find -54
+insert -10 76
+find -88
+find -36
+delete 0
+insert -10 65
+delete 15
+delete -17
+delete 19
+delete -16
+delete 4
+delete 80
+insert -44 -40
+delete 75
+find -98
+delete -72
+insert 72 -60
+delete -64
+delete -58
+insert 66 59
+find -67
+delete -2
+find 56
+find -8
+find -84
+delete -59
+find 59
+delete -49
+find 43
+find -27
+find 36
+delete 63
+insert -66 -61
+find 67
+delete 84
+delete 91
+find -20
+delete 76
+find -56
+delete 60
+insert -69 -93
+insert -63 -42
+delete 80
+find -83
+find 4
+delete -81
+insert -52 -41
+delete -84
+find -5
+insert 60 15
+delete 12
+find 74
+find -67
+delete -45
+insert 41 -35
+find 51
+find 38
+find 78
+find -78
+delete -87
+find -59
+find -80
+insert -59 15
+delete -98
+insert -63 14
+delete 63
+insert 64 -3
+insert 32 90
+delete 38
+insert 3 -24
+delete -19
+insert 86 -75
+find -53
+delete 8
+insert -73 1
+delete 86
+insert -32 75
+delete -53
+insert 43 -89
+find 72
+insert 77 -82
+insert -78 21
+delete 86
+find 31
+insert 32 67
+delete 50
+insert 90 78
+delete 24
+insert -68 92
+delete 53
+find -70
+delete 54
+insert 73 -50
+find 92
+delete 22
+insert 45 -40
+find -72
+insert 4 95
+insert -46 -78
+delete 84
+insert -79 1
+find 65
+delete -12
+delete -77
+insert 11 93
+insert 61 -7
+insert 97 -85
+find -6
+delete 96
+insert -41 0
+delete 18
+insert -56 -85
+insert 95 88
+insert 30 53
+insert -81 -38
+delete -40
+insert 6 -25
+insert 99 -66
+delete -86
+delete -18
+delete -93
+delete -48
+delete 79
+delete 67
+insert 85 -42
+delete 25
+delete 1
+delete -8
+delete 41
+find 33
+find 12
+insert 7 -37
+find -5
+find -94
+insert -29 -87
+find 24
+find -34
+delete -60
+insert -68 -49
+find 57
+delete 14
+find -2
+find -18
+insert -29 49
+find 84
+insert -69 79
+delete -39
+delete -18
+delete 50
+insert -91 76
+insert 3 68
+delete -13
+delete 93
+delete 77
+delete 85
+find 97
+find 32
+delete 69
+delete -95
+find -17
+delete -67
+find -27
+insert -70 75
+find -61
+delete 75
+delete 20
+delete 82
+find 49
+insert -31 -92
+insert -3 57
+find -71
+insert 53 -19
+delete -18
+find -29
+insert -87 44
+find 95
+delete 24
+delete -77
+delete -19
+delete -45
+delete 87
+delete 94
+find 64
+delete 5
+delete -6
+find -48
+insert 19 88
+find -65
+insert 50 -51
+delete -15
+delete -72
+find -69
+find -39
+insert -1 16
+find -14
+find -75
+insert 89 35
+find -37
+find -15
+delete -71
+insert -92 11
+find -81
+insert 92 75
+delete 89
+find 8
+delete 59
+find -64
+delete -62
+insert -4 -37
+delete 42
+find -73
+insert -80 -91
+delete -60
+find 34
+delete 2
+insert -33 16
+delete 95
+delete 7
+delete -25
+delete -39
+insert -33 -77
+find 34
+delete -98
+find -39
+delete -95
+delete 78
+insert -16 -82
+delete 70
+insert 8 -4
+find 76
+find -67
+find -75
+insert -81 -44
+find 68
+insert 72 55
+find -56
+insert 87 -43
+insert 92 -88
+delete -93
+delete -36
+insert -81 -65
+delete -33
+find -50
+delete 6
+find -90
+insert 65 -82
+insert -15 -7
+find -60
+delete 59
+delete -11
+find -84
+insert 80 -38
+delete -71
+delete -46
+delete 14
+delete -33
+find 31
+insert -7 -23
+find -14
+find -68
+delete -21
+delete 44
+delete 79
+find -80
+delete -29
+find 1
+find -97
+find -67
+insert 49 85
+insert -23 -48
+insert 60 -44
+delete -63
+find -82
+find 2
+insert 10 79
+find 33
+delete -54
+delete -74
+insert -6 -21
+insert -3 -78
+delete 31
+find -56
+find -100
+insert 66 61
+insert -2 50
+insert 16 34
+delete 64
+insert -93 7
+find 65
+insert -65 43
+delete 29
+find -50
+insert -56 9
+find 67
+delete 88
+delete 53
+find -19
+delete -96
+find 83
+delete 17
+find -15
+insert 22 44
+delete -13
+delete -69
+delete -74
+insert -96 -72
+find -99
+delete -51
+delete 94
+insert -60 47
+delete -27
+find 0
+find -9
+delete 26
+delete -42
+insert 28 -97
+insert 67 -95
+insert 49 84
+find 6
+find -28
+insert 2 -27
+find -52
+delete -80
+delete 59
+delete 4
+delete 2
+delete -19
+insert 6 -9
+find -65
+find -90
+insert -48 -70
+find -64
+find 62
+insert 87 -79
+delete -39
+find 51
+insert 72 -1
+find -82
+insert 42 20
+insert 75 49
+insert -33 71
+insert 13 33
+delete 17
+find 59
+delete -22
+insert -98 -35
+insert -44 26
+delete -93
+find 23
+delete -15
+delete -86
+insert -86 -79
+insert 15 83
+insert -62 -16
+find 71
+insert 9 -14
+insert -37 64
+find -83
+insert 23 -27
+find 22
+find 11
+find -9
+delete -9
+insert 28 -43
+delete 88
+insert -86 14
+find -49
+delete -13
+insert 68 73
+delete -69
+find 19
+find 20
+find -27
+delete 17
+delete -9
+find 50
+insert 59 59
+delete 68
+insert 8 -7
+insert 75 -91
+insert -67 -4
+delete 53
+delete 93
+find 11
+insert 36 -69
+insert 62 -88
+insert -80 3
+delete 22
+find 56
+delete -84
+find -76
+find 70
+insert -97 31
+delete 89
+delete 40
+find -100
+find -21
+delete 51
+insert -5 -89
+insert -41 40
+delete 15
+delete -76
+find -7
+insert 78 22
+delete -93
+find -84
+find 75
+delete 99
+find -50
+insert 6 36
+delete 70
+insert 88 -34
+delete 18
+find -5
+insert 92 -68
+find -97
+find 3
+find -100
+delete 40
+insert 54 51
+find -36
+delete -23
+find -56
+find -97
+find 6
+find 58
+insert 97 -24
+insert -8 -4
+delete -23
+find 49
+find 47
+insert 7 -15
+delete 3
+insert 26 -26
+insert -72 3
+delete -75
+insert 27 94
+delete 22
+find -32
+find 80
+delete 16
+delete -84
+insert 21 65
+delete -32
+delete -93
+insert 74 -38
+delete -48
+delete 6
+find 91
+insert -42 -71
+delete -96
+insert 83 57
+delete -46
+insert 68 22
+insert 84 15
+delete 1
+find -89
+find 26
+insert -73 88
+insert -20 -24
+find 13
+insert -44 23
+delete 65
+insert 27 48
+find -27
+delete 26
+find -23
+insert -74 44
+find -20
+insert 98 33
+find -32
+insert 79 -65
+find -93
+delete -43
+delete 17
+find -72
+find -40
+insert 82 -4
+insert 37 74
+insert 66 70
+insert 10 9
+insert -78 8
+find -87
+insert -22 44
+delete -29
+find -75
+find 30
+insert -87 10
+delete -27
+insert 11 21
+find -100
+insert 72 66
+find 25
+delete 28
+delete -49
+insert 24 -36
+delete -97
+insert -69 -74
+delete -92
+insert 94 3
+find 5
+find -4
+delete -5
+delete -28
+insert -82 97
+delete -64
+delete -9
+delete -19
+delete -44
+delete 59
+insert 12 20
+insert -10 84
+insert 49 30
+delete 72
+find -49
+insert 10 47
+find 82
+find -43
+delete -91
+find -46
+delete 62
+delete 48
+delete -56
+find -5
+delete 79
+find -53
+insert 19 48
+insert 39 21
+delete 90
+insert -5 -11
+delete -70
+delete -62
+insert -6 -65
+insert 47 49
+insert -5 20
+insert 54 -85
+insert -14 -82
+find 53
+insert -48 51
+delete 25
+find -81
+delete -68
+insert -4 -38
+insert -14 -76
+insert 21 -61
+delete -29
+delete 85
+delete -59
+find 58
+delete 29
+find 52
+find -35
+find -66
+find -19
+delete 13
+insert 56 73
+find -82
+insert -66 -58
+delete 56
+find 51
+delete -20
+delete 22
+find 80
+find 22
+delete -92
+delete 44
+find 83
+insert 19 -84
+insert 84 17
+find 58
+find 81
+insert 48 75
+insert -44 -91
+insert 87 -59
+insert -39 14
+delete -7
+delete -73
+insert 11 24
+insert -54 -45
+delete -86
+find 34
+delete -28
+insert 97 -47
+insert 45 -72
+find 53
+insert 64 40
+delete 50
+find 46
+find -54
+insert -4 -1
+insert 72 29
+find -73
+insert -42 -12
+insert 41 60
+find 38
+find -17
+insert 94 2
+insert 84 -81
+delete -85
+insert -67 61
+find -21
+find -62
+insert 41 -90
+find 85
+insert 39 95
+find 53
+find -62
+find -25
+insert -5 10
+delete 50
+find 81
+delete 31
+insert -10 65
+delete -20
+insert 58 18
+find -48
+delete 87
+delete 65
+delete 84
+delete -68
+delete -19
+find 47
+find -9
+find -66
+insert 9 -85
+find 92
+find -47
+find -73
+find 54
+find -96
+find 89
+find -32
+insert -50 94
+find -7
+insert -65 26
+delete 82
+delete -34
+insert 96 -41
+delete 64
+delete -54
+insert -73 -97
+delete 12
+insert -55 16
+delete 86
+find -42
+delete -49
+find -21
+insert -69 -34
+find -94
+find -12
+find 93
+insert 31 -53
+find 5
+find 29
+insert -52 89
+find 10
+find -35
+delete 72
+delete 59
+find -31
+delete 21
+find 95
+insert -9 -99
+delete 80
+insert 82 -83
+insert 81 -82
+find -74
+delete -1
+find -12
+delete 36
+delete -35
+find 51
+insert 96 92
+find 60
+insert -77 55
+find 14
+insert -59 -54
+find -77
+find -57
+insert -67 -42
+find 33
+find -91
+find 9
+delete -100
+insert 82 3
+find 78
+insert 16 -10
+find -9
+insert -38 57
+delete -45
+find 93
+delete -81
+find -65
+find -53
+find 38
+insert -73 11
+insert 72 -37
+find 55
+find 54
+delete -86
+insert 76 75
+insert 74 89
+insert -67 -56
+delete -74
+insert 98 -85
+find -97
+insert -19 -7
+find 8
+insert -65 -68
+find 79
+insert 38 -15
+insert 4 7
+find -21
+find -21
+delete 94
+find -35
+insert -58 40
+find -42
+find -22
+delete 32
+delete -9
+delete 27
+delete -75
+delete -91
+find 90
+find 41
+insert 53 -54
+find 25
+find 46
+delete 89
+delete 97
+insert 52 -28
+find -97
+delete 14
+find -27
+insert -20 52
+delete -43
+insert 49 -78
+find 96
+find -12
+insert 62 -86
+delete -13
+find -49
+find 24
+find -87
+delete -28
+find -20
+find 21
+insert -53 -21
+insert 51 -81
+insert 55 68
+insert 49 64
+insert 90 14
+find 56
+find 49
+delete 44
+find 94
+find -5
+insert -84 2
+delete 90
+find -78
+find -46
+delete -8
+delete 85
+find -58
+delete 97
+find -32
+find -28
+delete 44
+insert -69 -87
+find 61
+delete -95
+delete -70
+delete 58
+find 15
+find 7
+find 88
+delete 49
+find 71
+insert -45 -8
+delete -38
+delete 34
+delete -58
+insert 0 -75
+insert 61 38
+insert 19 46
+find -8
+insert -31 -92
+delete 28
+find 30
+find -87
+insert -15 -90
+delete 29
+delete -39
+insert -57 95
+find -75
+delete -38
+find 61
+find 27
+delete -1
+delete 72
+insert -14 80
+find -86
+find -73
+find -42
+delete 18
+delete 70
+find 30
+find -10
+find 78
+insert 50 -74
+insert 70 39
+find -50
+insert 92 14
+insert 47 -100
+delete -55
+find 69
+delete -52
+insert 95 66
+insert 65 66
+find 96
+insert -93 75
+insert 9 53
+delete -68
+insert 20 -18
+find -36
+find -46
+find 97
+insert -91 16
+insert -67 64
+insert 81 -18
+delete 46
+insert 70 -5
+delete 29
+delete -4
+find 75
+insert -29 -81
+insert 53 -18
+delete 49
+find 77
+insert -81 38
+find -30
+delete 30
+insert 4 -87
+delete -49
+insert 11 46
+insert -60 68
+find -21
+delete 96
+insert 14 44
+find 48
+insert 57 -64
+insert -93 -93
+delete -78
+insert 96 4
+find 0
+delete 76
+delete -65
+find -51
+find -68
+insert 31 -37
+insert -21 66
+insert -77 -79
+insert 81 30
+insert 15 38
+insert 88 12
+find 84
+delete -8
+insert -62 -80
+delete -27
+find 89
+insert -56 59
+find 7
+delete -54
+delete -98
+insert -53 -68
+delete 29
+delete 66
+insert 74 6
+insert -70 -10
+insert -26 -21
+find -53
+insert 63 -89
+delete -52
+delete 67
+find 14
+insert -86 88
+find -16
+insert 29 35
+delete -71
+delete 36
+delete 60
+find 85
+insert 67 -88
+find -43
+find 0
+insert -78 -39
+delete -71
+find 88
+find 23
+find -17
+insert -14 -30
+delete 73
+delete 31
+delete -25
+delete 87
+insert -77 89
+insert -65 -29
+find 98
+find -8
+insert 84 -35
+find 65
+find 45
+delete -92
+insert 9 -53
+find -89
+find -62
+insert -53 -35
+find -66
+delete -49
+delete -31
+insert -53 41
+insert 70 85
+insert 55 -49
+insert 20 -43
+find 60
+delete 37
+find -36
+find -68
+insert 78 26
+insert -57 6
+delete -98
+delete -53
+find 49
+delete 65
+find -84
+delete 48
+find 5
+insert 95 62
+delete 56
+delete 9
+delete 96
+delete 14
+insert -73 -60
+find -78
+insert 89 -75
+insert -64 -51
+delete -18
+find 44
+find -32
+delete 74
+delete 9
+insert -12 -19
+find -80
+find 59
+find 92
+find -50
+find 13
+find 94
+insert 57 71
+delete 93
+delete -73
+find 38
+delete -22
+insert 69 -48
+find -70
+find 73
+insert -97 46
+delete 62
+delete 51
+find 17
+insert 0 -14
+find 13
+insert 93 82
+insert 65 62
+insert 4 34
+find -37
+insert -50 48
+delete -76
+insert 48 79
+delete 7
+find -14
+delete 76
+delete -15
+find -58
+insert 41 -63
+delete -24
+delete -83
+delete -1
+delete 24
+find -12
+delete 48
+find -84
+insert -39 16
+insert -67 -77
+insert 19 -67
+delete 23
+insert -100 65
+insert -6 55
+find 70
+find 97
+insert 84 -30
+delete -18
+find -37
+insert -2 -69
+delete 60
+find -91
+delete 23
+delete -36
+find 29
+delete 79
+find -43
+insert 75 64
+delete 45
+delete 34
+find -66
+delete 89
+delete -33
+delete -98
+find -65
+find -23
+insert -31 -78
+find -74
+insert 66 7
+insert 45 89
+delete -47
+insert 5 90
+insert 55 24
+insert 41 -68
+delete 62
+find 61
+insert -83 97
+delete -54
+insert -6 -31
+insert 21 -40
+delete -72
+find 58
+insert -17 -89
+find 88
+find 48
+insert -23 15
+insert 10 -76
+insert 61 86
+delete 78
+find -64
+delete -81
+insert -54 13
+delete -42
+find 84
+insert -65 54
+insert -53 -60
+find 52
+find -84
+delete -45
+find -8
+delete -48
+insert -82 -84
+insert 5 -96
+insert -24 -13
+insert 41 -9
+insert -34 -72
+find 2
+insert -46 1
+find 27
+find 14
+insert -65 69
+delete -21
+delete 54
+insert 71 22
+delete -24
+find -14
+insert 66 -55
+delete -43
+insert 12 -63
+insert 66 71
+find -33
+find 18
+insert -41 66
+find 81
+find 39
+delete 73
+insert 6 -53
+insert 82 26
+delete -13
+insert -68 32
+insert -54 -56
+find 82
+insert 10 73
+delete -92
+find -46
+insert -91 14
+find -72
+insert 35 54
+insert 93 -99
+delete 75
+delete 67
+insert -81 99
+find 21
+find 91
+find 32
+find 22
+find 35
+find 48
+delete 2
+delete 3
+find 38
+insert 41 -8
+delete 34
+find -78
+find 73
+insert -24 44
+insert -77 -35
+delete 67
+insert 75 -27
+find -67
+insert 86 33
+delete -60
+delete -47
+insert 33 14
+find 77
+insert -25 -78
+insert 37 47
+find -87
+find 18
+delete 9
+insert 8 39
+delete 81
+find 22
+delete -71
+delete 39
+insert -2 45
+find 83
+delete -43
+insert -83 32
+find 97
+find -18
+insert -65 26
+insert 76 -64
+delete -16
+insert 91 -35
+delete -35
+delete 51
+delete -2
+delete 71
+find -10
+find -46
+delete -33
+delete -68
+delete -80
+find -63
+insert -11 63
+delete -83
+find -62
+insert -22 82
+insert -52 -53
+find -100
+insert 74 25
+insert 69 68
+insert 76 -32
+insert 99 0
+delete 72
+find 62
+find 95
+find 3
+delete -23
+delete 13
+insert -25 -69
+find -25
+find 8
+find -18
+delete -61
+delete -99
+find 32
+insert 61 31
+find 34
+find -24
+insert -78 -76
+delete 25
+find -98
+insert 2 10
+find -15
+insert 21 93
+insert 17 -72
+find 8
+find 13
+delete 16
+delete -88
+find 4
+delete -45
+insert 46 -23
+delete 19
+delete 93
+find 74
+delete 84
+insert 33 -98
+delete -22
+find -41
+insert -61 19
+insert 4 22
+delete -13
+delete 10
+delete 84
+delete -24
+find -58
+find 54
+find 79
+delete 71
+find 64
+insert 11 66
+find 90
+insert 93 -52
+delete -36
+find 42
+delete 53
+delete -75
+insert 24 62
+find 53
+delete -77
+find 98
+delete -31
+find 44
+delete 42
+find 11
+delete -30
+find 6
+insert 2 -4
+find 45
+delete -82
+delete 71
+find 14
+find -94
+delete 52
+insert 65 -57
+insert 38 -36
+delete -18
+delete 22
+insert 76 -70
+find -71
+find -45
+delete 37
+insert 80 27
+find -21
+insert 49 45
+delete 55
+insert -98 57
+insert -55 58
+find -39
+delete -75
+insert -40 95
+delete -58
+find -17
+delete -10
+delete -80
+find 47
+insert -19 78
+find 82
+find 99
+find -89
+insert -5 -84
+find -47
+find -41
+insert 36 85
+insert 31 -61
+insert 18 23
+find 60
+insert 2 36
+delete -99
+insert -84 51
+delete -9
+find -58
+insert 3 -11
+delete 1
+find 81
+insert -62 -31
+delete 93
+delete -11
+delete -30
+find -75
+delete -46
+insert 19 -56
+insert -59 -88
+insert 93 3
+delete 87
+insert -64 -24
+find -11
+delete 62
+find -91
+delete -48
+delete 84
+insert 46 -46
+find 71
+find 12
+find 56
+find 30
+find 20
+insert 42 -76
+insert 30 82
+insert -94 62
+delete 29
+delete -69
+delete 56
+find -7
+find -19
+insert 46 39
+find 83
+find 64
+find 12
+delete -12
+find 12
+find -92
+find 13
+insert -48 -29
+find -19
+delete -71
+find -9
+delete 0
+find -71
+insert 27 28
+insert -59 -37
+find 57
+insert 88 -96
+delete 72
+insert 78 81
+insert -9 23
+insert 15 -72
+insert 16 -42
+insert 59 47
+find -52
+delete -87
+find -43
+insert 21 -28
+insert -22 -73
+find -66
+delete -26
+insert -99 -45
+find -55
+find -80
+delete -93
+find -72
+insert -83 39
+delete -52
+find -55
+delete 15
+find -49
+insert 27 64
+insert 6 -34
+insert -19 40
+delete -65
+delete 91
+delete -23
+delete 92
+find -51
+delete -47
+delete 11
+delete -33
+find -85
+delete 66
+find -17
+find 49
+insert -80 -45
+find -27
+insert -94 -23
+insert 53 -79
+insert -70 -68
+find -33
+insert 68 -28
+insert -69 94
+insert -18 62
+delete -100
+delete -17
+find 33
+find 75
+find 97
+delete -71
+find -22
+insert 8 -49
+delete -9
+find 5
+delete 17
+find 82
+insert -43 77
+find 39
+find -11
+insert 23 25
+delete -92
+delete 73
+insert 58 74
+delete 61
+insert -17 -78
+find 93
+insert -10 -2
+find 60
+delete 57
+insert 33 34
+delete -76
+insert -39 16
+insert 38 63
+find -2
+delete 61
+find -38
+delete 70
+find 74
+find 21
+find -43
+delete -82
+find 24
+find 89
+insert -73 -24
+find -97
+delete 90
+find 54
+find -65
+delete 79
+delete 75
+find 86
+delete 57
+find 45
+insert -22 -36
+insert -58 -18
+insert 18 28
+insert 24 55
+delete -47
+delete 9
+delete -69
+delete -24
+find 82
+delete 41
+find -9
+find 28
+insert -16 -27
+insert 62 -11
+delete 56
+insert -49 -26
+find -69
+find -92
+find -97
+find 0
+delete 2
+find -72
+insert -2 -17
+delete -93
+find 41
+insert 27 -75
+delete -23
+delete -98
+insert -5 26
+find 21
+delete 71
+delete 86
+delete -74
+find -37
+insert 59 31
+insert -21 81
+insert 41 40
+delete -66
+delete -5
+find -8
+insert 50 -6
+delete 97
+delete -98
+insert 51 25
+insert 37 -60
+insert 47 -45
+find 6
+find -93
+insert 67 -51
+insert -41 69
+delete -13
+find -24
+delete 88
+delete -74
+insert 75 99
+find -55
+delete -67
+find -61
+find -91
+find 28
+insert -55 -34
+insert 83 85
+delete -86
+find 88
+insert -16 -96
+insert -84 92
+insert -58 46
+find 93
+find 5
+insert -14 95
+delete 11
+find 21
+find 67
+insert -43 -10
+insert -58 9
+delete -13
+delete -2
+find -46
+delete 39
+insert 38 81
+insert 98 75
+insert -45 -30
+delete -50
+insert -48 59
+delete -56
+delete 97
+insert 68 -97
+find -70
+delete 35
+insert 69 -42
+delete 74
+find -63
+find 30
+delete -37
+delete -63
+insert 28 78
+find -15
+delete -20
+find -26
+find 14
+find -21
+delete 76
+find 39
+find 41
+insert 69 -72
+find 18
+insert 0 -100
+insert 63 -42
+insert -18 38
+find -96
+find 1
+find 40
+delete 47
+delete -92
+find 23
+insert 36 -38
+insert -22 23
+insert -42 10
+delete -25
+delete -14
+find 25
+insert -28 60
+insert 43 16
+find -55
+delete 2
+insert 0 8
+insert -21 83
+delete 67
+insert 64 97
+insert 32 -45
+insert -82 -17
+insert -44 -86
+delete 53
+find 34
+insert 82 -98
+insert 79 6
+insert -44 58
+find 89
+delete 98
+insert -95 96
+find -98
+find 54
+insert -97 72
+find -1
+delete -89
+find 34
+find 59
+insert 85 61
+insert 16 -80
+delete 73
+find -50
+find 68
+find -79
+delete 96
+find -21
+insert 98 -11
+insert 22 -14
+find 3
+insert 93 89
+delete 52
+delete -63
+delete -6
+delete -62
+find -21
+find -18
+delete 36
+find -86
+insert -21 -90
+find -4
+find 82
+insert -18 -31
+delete 38
+find 81
+find 71
+delete -6
+find 51
+insert 15 89
+delete 94
+find 3
+insert -6 86
+insert 56 -82
+find -51
+insert -24 -69
+find 10
+insert -81 -52
+insert -100 28
+find -15
+delete 4
+find 15
+insert 30 -12
+find -60
+delete -44
+find -18
+find -57
+find -22
+insert 66 54
+insert 49 -35
+find 68
+find -1
+insert 45 94
+find 20
+delete 47
+find 73
+find -25
+delete 18
+insert -1 -95
+find -87
+delete 4
+find -8
+insert 98 67
+insert -85 -5
+find -19
+insert -39 78
+find -33
+delete -4
+find -15
+delete -56
+delete 12
+find 31
+insert 19 83
+find 19
+insert -80 63
+find -81
+insert -17 86
+insert -76 -81
+find -14
+delete 70
+insert -4 -34
+find 82
+delete 64
+delete 52
+find 77
+find 97
+find -57
+delete -99
+find -69
+delete -65
+insert 47 -79
+find 72
+find 68
+find -61
+delete 63
+find 9
+delete -31
+find 99
+insert 49 -23
+find -84
+find -94
+delete -6
+delete -24
+find 75
+insert -61 23
+delete 30
+delete 73
+delete 5
+delete 42
+delete -48
+find 4
+delete -99
+delete 89
+insert 33 -65
+delete 59
+find 31
+insert 5 -93
+delete -20
+find 70
+insert -98 -47
+insert 28 4
+insert -8 98
+delete 44
+delete -20
+insert 54 35
+insert -43 -32
+insert 28 80
+delete -89
+delete -7
+delete 65
+find -12
+delete 29
+find 41
+insert -82 97
+insert -37 95
+find -93
+find -5
+delete -45
+delete 85
+insert -49 79
+insert -69 19
+delete -83
+find 73
+find 38
+delete -78
+delete -45
+delete -54
+find 12
+insert -11 7
+delete -4
+find -57
+delete -37
+find -41
+delete -71
+delete -29
+delete -38
+find -71
+insert 51 63
+insert 64 38
+find -81
+delete -70
+find 66
+insert -14 -75
+delete 83
+find -41
+find -52
+delete -80
+find -34
+delete 50
+find -76
+insert 7 -49
+find -77
+insert 47 61
+find 19
+delete -71
+insert 80 -4
+find 58
+find 38
+delete 24
+insert 92 61
+find 19
+insert 29 -78
+insert 54 50
+insert -95 82
+delete 72
+delete -46
+delete -52
+delete -100
+delete -99
+find 20
+find 61
+find 2
+insert -95 -54
+delete 24
+find 31
+insert 40 41
+delete -10
+insert 16 -76
+insert -11 6
+insert -40 6
+delete -87
+delete 80
+find 43
+delete -77
+delete 93
+insert 58 92
+find -66
+insert 91 -60
+insert -16 99
+delete 44
+insert 17 -52
+insert -77 -45
+insert -19 -66
+find 5
+find -56
+find -43
+find 54
+find -19
+insert 94 -7
+find 52
+insert -9 -98
+find -58
+delete -84
+insert -88 -35
+find 87
+find 41
+insert 6 23
+find -28
+delete 26
+find -8
+delete 31
+insert -52 26
+insert -1 -70
+delete 90
+delete 26
+find -20
+find -5
+insert 60 -33
+insert -68 -92
+delete -10
+insert -75 14
+find 3
+find -5
+insert 26 -80
+find -96
+find -65
+insert -56 77
+find 71
+insert -96 14
+insert -52 -26
+insert -69 -42
+delete 30
+delete 20
+delete -86
+delete -90
+delete 23
+find -13
+find 85
+insert 34 -80
+delete 79
+find -97
+find 12
+find -84
+insert -93 -58
+delete -62
+find 40
+insert -100 -40
+insert 66 -12
+find 75
+find -60
+delete 56
+insert 54 -58
+find 85
+insert 46 40
+delete -90
+insert -9 -16
+delete 33
+insert -4 85
+find 69
+find 40
+find 3
+find -9
+find -60
+insert -7 48
+find 99
+delete -43
+find 64
+delete -23
+insert 66 29
+insert -49 87
+insert 90 -64
+find 18
+insert -56 -90
+delete -1
+find 97
+insert -69 -19
+insert 31 41
+delete -26
+insert 59 91
+find 89
+find -75
+find 14
+insert 5 -17
+find -7
+insert 37 -50
+insert 47 56
+insert 37 54
+find 20
+find 90
+insert 28 65
+insert -69 -24
+insert 38 -83
+delete 16
+find 67
+delete 93
+insert 63 -62
+find 0
+insert -18 99
+find 68
+delete 51
+delete -43
+insert -70 -39
+delete 47
+find -50
+delete -91
+find 93
+insert -43 -20
+find -99
+insert 35 65
+delete -20
+find 5
+delete -83
+insert -18 6
+insert 22 15
+delete 52
+find 63
+find 17
+find -26
+delete 7
+delete 40
+insert 0 -27
+insert 25 -91
+insert 41 -59
+delete -54
+delete -79
+insert 90 27
+delete 12
+find 47
+delete 71
+delete 15
+insert 25 89
+delete 84
+delete 63
+find -39
+delete -83
+find 98
+find -20
+find -44
+find 94
+find 79
+insert 56 34
+find 50
+delete 12
+find 93
+find -34
+insert 21 37
+delete 30
+delete 54
+find -10
+insert -19 -12
+delete 13
+find 83
+insert -27 -88
+find -90
+insert -42 -42
+insert -8 23
+insert -15 -46
+find 7
+find 49
+find -43
+delete -81
+insert -8 42
+find 80
+delete 47
+delete 57
+insert -16 22
+delete -6
+find 77
+delete 13
+insert 80 -90
+find -66
+insert 65 -90
+insert -22 -33
+insert -51 -80
+find 43
+delete 1
+delete 53
+insert -25 97
+delete 97
+find 95
+insert -7 0
+insert -34 -68
+insert 24 -82
+find -11
+delete 64
+insert -100 -59
+delete -80
+find 11
+delete -85
+find 79
+insert 4 76
+insert -47 -8
+delete -8
+delete -25
+delete -97
+delete -35
+delete -23
+insert -84 -42
+delete -13
+find 12
+find -22
+insert 19 4
+find 0
+delete -26
+find -88
+insert -91 4
+insert -47 -58
+insert -97 -55
+insert -32 73
+insert 74 41
+insert -55 -71
+insert 10 -64
+insert 37 7
+find 31
+find 26
+find 63
+insert -41 24
+insert 36 78
+delete -60
+insert -18 -49
+find -93
+insert 27 0
+delete 25
+find -57
+delete 18
+find 24
+find 20
+insert 85 -54
+delete 0
+insert 76 -75
+find -35
+delete 67
+find 36
+find 57
+insert -92 -51
+delete 8
+insert -7 90
+insert 28 -40
+delete -96
+find -20
+find 74
+delete 29
+delete -38
+find -48
+delete 22
+delete 59
+insert -5 60
+delete 84
+insert 86 52
+insert -27 -54
+find -96
+find -21
+delete -17
+find -56
+delete -9
+find 28
+find 84
+find 22
+insert 8 -19
+delete 36
+insert -4 -75
+find -35
+find -84
+insert -16 -86
+insert -60 41
+delete -96
+delete -40
+insert -77 3
+insert 51 73
+find 36
+delete -17
+insert 76 -81
+insert 4 15
+find 68
+delete 20
+find -74
+find 99
+delete 97
+insert -65 54
+find -52
+delete -9
+find -23
+delete -23
+find -17
+insert -34 -21
+find -15
+find 57
+delete 21
+insert -15 94
+insert 12 51
+find 55
+insert 55 43
+delete 75
+find -91
+delete -54
+insert -87 23
+delete -4
+delete -12
+delete 49
+delete -8
+find 26
+find 84
+delete 59
+find -24
+insert 10 -69
+find -83
+insert 69 92
+insert 30 -89
+delete 68
+delete -61
+delete -27
+insert -22 53
+find -49
+insert 99 78
+delete 83
+find 22
+delete -34
+delete -7
+insert 0 -38
+insert -31 -46
+delete -100
+find -35
+find 95
+delete 58
+delete -4
+delete 74
+delete -60
+find -64
+find -70
+insert 12 5
+find 30
+find -53
+insert 90 9
+delete -89
+delete -43
+delete 34
+insert 32 -19
+insert -58 1
+delete -69
+find -35
+find -5
+delete 93
+insert -28 -43
+delete -73
+insert -76 -74
+delete 66
+insert 78 78
+find 87
+find -10
+insert -75 71
+find -32
+insert -79 -49
+delete -62
+insert 47 -9
+delete -76
+find -72
+find 42
+delete 35
+insert -15 2
+delete -85
+insert 65 -98

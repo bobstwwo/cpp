@@ -1,0 +1,12 @@
+true
+true
+true
+0
+0
+null
+true
+false
+-10
+10
+100
+null

@@ -1,0 +1,12 @@
+insert 1 0
+insert 2 10
+insert 3 100
+find 1
+delete 1
+find 1
+insert 1 -10
+insert 2 10000
+find 1
+find 2
+delete 3
+find 3

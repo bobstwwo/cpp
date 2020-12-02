@@ -1,0 +1,10 @@
+find 12
+insert 12 12
+insert 2 12
+insert 3 100
+find 1
+insert 1 -100
+insert 4 100
+find 2
+find 3
+find 12
